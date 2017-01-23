@@ -1,3 +1,5 @@
+/* Fonts */
+
 @font-face{
     font-family: Mark;
     src: url(../mark_my_words.ttf);
@@ -8,10 +10,14 @@
     src: url(../Roboto-Light.ttf);
 }
 
+/* Mainpage Body style */
+
 #body{
 	padding-top: 0px;
 	background-color: #f0f3f4;
 }
+
+/* Unused */
 
 .panel-body{
 	color: black;
@@ -26,6 +32,8 @@
 	color: black;
 }
 
+/* Big messages style */
+
 #welcome{
 	text-align: center;
 	font-family: Mark;
@@ -34,6 +42,8 @@
 	margin-bottom:90px;
 	
 }
+
+/* Big message mainpage style */
 
 #welcome-title{
 	text-align: center;
@@ -48,6 +58,8 @@
 	border-bottom: none;
 }
 
+/* Carousel style */
+
 #myCarousel{
 	height: 95%;
 }
@@ -55,6 +67,8 @@
 .fill{
 	filter:brightness(70%);
 }
+
+/* Navbar and  navbar logo style */
 
 nav.navbar{
 	font-size: 16px;
@@ -66,8 +80,6 @@ nav.navbar{
 	border-bottom: white;
 }
 
-
-
 #logo{
 	height: 60px;
 	position: absolute;
@@ -75,6 +87,8 @@ nav.navbar{
 	left:2%;
 	display: block;
 }
+
+/* Actuality panels style */
 
 .festival{
 	width: 200px;
@@ -87,9 +101,13 @@ nav.navbar{
 	height: 160px;
 }
 
+/* Confirm buttons style */
+
 .btn-primary{
 	background-color: black; 
 }
+
+/* Mon Compte button style */
 
 #moncompte{
 	padding: 15px;
@@ -102,6 +120,8 @@ nav.navbar{
 	color: black;
 }
 
+/* Navbar tabs style */
+
 .onglet{
 	margin-top: 10px;
 	height: 40px;
@@ -111,6 +131,8 @@ nav.navbar{
 #liencompte{
 	padding: 0px;
 }
+
+/* Connection forms style */
 
 #connexion{
 	position: fixed;
@@ -151,6 +173,8 @@ nav.navbar{
 	opacity: 1;
 }
 
+/* Upload panel style */
+
 #titreupload{
 	font-family: Mark;
 	font-size: 34px;
@@ -185,6 +209,8 @@ nav.navbar{
 .navbar-collapse{
 	height: 1000px;
 }
+
+/* Shuffle player button mainpage style */
 
 #lecture-shuffle{
 	z-index: 2;
@@ -223,9 +249,7 @@ nav.navbar{
 	transition:0.5s;
 }
 
-/*#decalage:hover{
-	transform: translateX(15px);
-}*/
+/* Desciption mainpage ads style */
 
 .icone-multimedia{
 	width:30%;
@@ -248,6 +272,8 @@ nav.navbar{
 	font-size: 26px;
 }
 
+/* Playlists title style */
+
 #banniere-playlists{
 	background-color: #2b343b;
 	padding: 20px;
@@ -256,6 +282,8 @@ nav.navbar{
 	color: white;
 	font-family: Mark;
 }
+
+/* Colored playlists buttons/divs style */
 
 .bloc-playlist{
 	padding: 60px;
@@ -270,6 +298,8 @@ nav.navbar{
 	transform:scale(0.95);
 	transition:0.5s;
 }
+
+/* Footer style */
 
 #logo-footer{
 	height: 200px;
