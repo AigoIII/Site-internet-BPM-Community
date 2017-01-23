@@ -293,3 +293,8 @@ footer{
 footer h4{
 	color: white;
 }
+
+#div-logo{
+	float: right;
+	margin-right: 10%;
+}
