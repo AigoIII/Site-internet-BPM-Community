@@ -272,16 +272,24 @@ nav.navbar{
 }
 
 #logo-footer{
-	height: 60px;
-	left:2%;
+	height: 200px;
+	
 	display: block;
 }
 
 #copyright{
-	margin-top: 20px;
+	margin-top: 70px;
 }
 
 footer{
-	padding-top: 20px;
-	padding-bottom: 20px;
+	font-family: Roboto-Light;
+	background-color: #BDBDBD;
+	padding: 20px;
+	padding-left: 150px;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+footer h4{
+	color: white;
 }
