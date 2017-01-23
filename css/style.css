@@ -270,3 +270,18 @@ nav.navbar{
 	transform:scale(0.95);
 	transition:0.5s;
 }
+
+#logo-footer{
+	height: 60px;
+	left:2%;
+	display: block;
+}
+
+#copyright{
+	margin-top: 20px;
+}
+
+footer{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
