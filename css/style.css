@@ -1,0 +1,272 @@
+@font-face{
+    font-family: Mark;
+    src: url(../mark_my_words.ttf);
+}
+
+@font-face{
+    font-family: Roboto-Light;
+    src: url(../Roboto-Light.ttf);
+}
+
+#body{
+	padding-top: 0px;
+	background-color: #f0f3f4;
+}
+
+.panel-body{
+	color: black;
+}
+
+.page-header{
+	text-align: center;
+	font-family: Mark;
+}
+
+.well{
+	color: black;
+}
+
+#welcome{
+	text-align: center;
+	font-family: Mark;
+	font-size: 90px;
+	margin-top: 240px;
+	margin-bottom:90px;
+	
+}
+
+#welcome-title{
+	text-align: center;
+	font-family: Mark;
+	font-size: 90px;
+	margin-top: 240px;
+	margin-bottom:90px;
+	position: absolute;
+	z-index: 1;
+	left: 12%;
+	color: white;
+	border-bottom: none;
+}
+
+#myCarousel{
+	height: 95%;
+}
+
+.fill{
+	filter:brightness(70%);
+}
+
+nav.navbar{
+	font-size: 16px;
+	height: 74px;
+	font-family: Roboto-Light;
+	background-color: rgba(0, 0, 0, 0);
+	z-index: 3;
+	position: fixed;
+	border-bottom: white;
+}
+
+
+
+#logo{
+	height: 60px;
+	position: absolute;
+	top: 7px;
+	left:2%;
+	display: block;
+}
+
+.festival{
+	width: 200px;
+}
+
+.fest{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 160px;
+}
+
+.btn-primary{
+	background-color: black; 
+}
+
+#moncompte{
+	padding: 15px;
+	margin:0px;
+	margin-top: 10px;
+	margin-left: 20px; 
+}
+
+#moncompte:hover{
+	color: black;
+}
+
+.onglet{
+	margin-top: 10px;
+	height: 40px;
+	color: white;
+}
+
+#liencompte{
+	padding: 0px;
+}
+
+#connexion{
+	position: fixed;
+	left: 0px;
+	right :0px;
+	top: 130px;
+	bottom: 0px;
+	visibility: hidden;
+	
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	vertical-align: center;
+	z-index: 40;
+}
+
+#fondco{
+	background-color: black;
+	opacity: 0.6;
+	visibility: hidden;
+	position: fixed;
+	left: 0px;
+	right :0px;
+	top: 0px;
+	bottom: 0px;
+	z-index: 30;
+}
+
+#connexion.connexion-visible {
+	visibility: visible;
+}
+
+#fondco.connexion-visible {
+	visibility: visible;
+}
+
+#form{
+	opacity: 1;
+}
+
+#titreupload{
+	font-family: Mark;
+	font-size: 34px;
+}
+
+#profil{
+	height:120px;
+}
+
+#bodycompte{
+	height: 500px;
+}
+
+#suppr{
+	margin-left: 95%;
+}
+
+#bodyupload{
+	height: 500px;
+}
+
+.songlist{
+	padding-left: 5%;
+}
+
+#panelgerer{
+	padding-top: 380px;
+	padding-bottom: 400px;
+	
+}
+
+.navbar-collapse{
+	height: 1000px;
+}
+
+#lecture-shuffle{
+	z-index: 2;
+	height: 70px;
+	width: 70px;
+}
+
+
+#demarrer-lecture{
+	margin-left: 20px;
+	z-index: 2;
+	font-size: 26px;
+	color: white;
+	font-family: Roboto-Light;
+}
+
+#decalage{
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	background-color: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	margin-top: 420px;
+	margin-left: 38%;
+	z-index: 2;
+	border-radius: 10px;
+	display: flex;
+	flex-direction:row;
+	justify-content:center;
+	
+}
+
+#decalage:hover{
+	transform:scale(1.05);
+	transition:0.5s;
+}
+
+/*#decalage:hover{
+	transform: translateX(15px);
+}*/
+
+.icone-multimedia{
+	width:30%;
+	padding-bottom: 20px;
+}
+
+#description{
+	padding: 50px;
+	background-color: #f0f3f4;
+	padding-left: 15%;
+	padding-right: 15%;
+}
+
+.bloc-description{
+	text-align: center;
+}
+
+.titre-multimedia{
+	font-style: Roboto-Light;
+	font-size: 26px;
+}
+
+#banniere-playlists{
+	background-color: #2b343b;
+	padding: 20px;
+	text-align: center;
+	font-size: 26px;
+	color: white;
+	font-family: Mark;
+}
+
+.bloc-playlist{
+	padding: 60px;
+	padding-bottom: 200px;
+	border: solid 2px white;
+	color: white;
+	font-family: Roboto-Light;
+	text-align: center;
+}
+
+.bloc-playlist:hover{
+	transform:scale(0.95);
+	transition:0.5s;
+}
