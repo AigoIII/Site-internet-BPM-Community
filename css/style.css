@@ -113,12 +113,12 @@ nav.navbar{
 #moncompte{
 	padding: 15px;
 	margin:0px;
-	margin-top: 10px;
-	margin-left: 20px; 
+	margin-top: 10px; 
 }
 
 #moncompte:hover{
 	color: black;
+	cursor:pointer;
 }
 
 /* Navbar tabs style */
@@ -139,7 +139,9 @@ nav.navbar{
 
 #liencompte{
 	padding: 0px;
+	margin-left: 20px;
 }
+
 
 /* Connection forms style */
 
@@ -279,6 +281,7 @@ nav.navbar{
 	display: flex;
 	flex-direction:row;
 	justify-content:center;
+	cursor: pointer;
 	
 }
 
