@@ -352,8 +352,8 @@
 
         <div id="fondco"></div>
 
-        <div id="connexion">
-            <div class="col-md-3">
+        
+            <div id="panel-connexion-gauche" class="col-md-3">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4>Se Connecter</h4>
@@ -383,7 +383,7 @@
                 </div>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div id="panel-connexion-droite" class="col-md-3">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4>Pas de Compte ?</h4>
@@ -430,7 +430,7 @@
                 </form>   
                  </div>
             </div>
-        </div>
+        
 
     </div>
     <!-- /.container -->
@@ -451,11 +451,19 @@
 
     <script type="text/javascript">
     $('#moncompte').click(function(){
-        $('#connexion').toggleClass('connexion-visible');
+        $('#panel-connexion-gauche').toggleClass('connexion-visible');
         });
     // Toggle la pop-up {
-    $('.class-bouton-fermer-pop-up').click(function(){
-        $('#fondco').removeClass('connexion-visible');
+    $('#fondco').click(function(){
+        $('#panel-connexion-gauche').removeClass('connexion-visible');
+    });
+
+     $('#moncompte').click(function(){
+        $('#panel-connexion-droite').toggleClass('connexion-visible');
+        });
+    // Toggle la pop-up {
+    $('#fondco').click(function(){
+        $('#panel-connexion-droite').removeClass('connexion-visible');
     });
 
     $('#moncompte').click(function(){

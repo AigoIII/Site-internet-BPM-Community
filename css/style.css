@@ -143,10 +143,32 @@ nav.navbar{
 
 /* Connection forms style */
 
+#panel-connexion-gauche{
+	width: 40%;
+	position: fixed;
+	left: 7%;
+	top: 130px;
+	
+	visibility: hidden;
+	z-index: 40;
+	float:left;
+}
+
+#panel-connexion-droite{
+	width: 40%;
+	position: fixed;
+	right: 7%;
+	top: 130px;
+	
+	visibility: hidden;
+	z-index: 40;
+	float: right;
+}
+
 #connexion{
 	position: fixed;
-	left: 0px;
-	right :0px;
+	left: 5%;
+	right: 5%;
 	top: 130px;
 	bottom: 0px;
 	visibility: hidden;
@@ -170,7 +192,11 @@ nav.navbar{
 	z-index: 30;
 }
 
-#connexion.connexion-visible {
+#panel-connexion-gauche.connexion-visible {
+	visibility: visible;
+}
+
+#panel-connexion-droite.connexion-visible {
 	visibility: visible;
 }
 
