@@ -14,13 +14,17 @@
     </div>
 
     <div id="controller">
-        <img id="button-previous" class="button" src="previous.jpg">
-        <img id="button-play" class="button" src="play.jpg">
-        <img id="button-pause" class="button" src="pause.jpg">
-        <img id="button-next" class="button" src="next.jpg">
-        <div id="current-time" class="timer"></div>
-        <div id="duration" class="timer"></div>
-        <input type="range" id="progress-bar" value="0">
+        <div id="button-container">
+            <img id="button-previous" class="button" src="back.png">
+            <img id="central-button" class="button" src="play.png">
+            <img id="button-next" class="button" src="next.png">
+        </div>
+        <div id="timer-container">
+            <div id="current-time" class="timer">0:00</div>
+            <div id="slash" class="timer">/</div>
+            <div id="duration" class="timer">0:00</div>
+            <input type="range" id="progress-bar" value="0">
+        </div>
     </div>
 
 
