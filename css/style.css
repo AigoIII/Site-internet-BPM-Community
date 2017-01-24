@@ -12,7 +12,7 @@
 
 /* Mainpage Body style */
 
-#body{
+body{
 	padding-top: 0px;
 	background-color: #f0f3f4;
 }
@@ -74,10 +74,14 @@ nav.navbar{
 	font-size: 16px;
 	height: 74px;
 	font-family: Roboto-Light;
-	background-color: rgba(0, 0, 0, 0);
+	background-color: #BDBDBD;
 	z-index: 3;
-	position: fixed;
+	position: fixed;;
 	border-bottom: white;
+}
+
+nav.navbar-mainpage{
+	background-color: rgba(0, 0, 0, 0);
 }
 
 #logo{
