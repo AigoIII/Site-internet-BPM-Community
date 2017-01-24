@@ -1,4 +1,5 @@
     var player;
+    window.lectureVideo = false;
 
     function onYouTubeIframeAPIReady() {
         player = new YT.Player('player', {
@@ -68,12 +69,17 @@ $(document).ready(function(){
 
 
 window.onload = function(){
-    $('#button-play').click(function(){
-        player.playVideo();
-    });
-    $('#button-pause').click(function(){
-        player.pauseVideo();
-    });
+    $('#central-button').click(function(){
+        if (! window.lectureVideo) { 
+         player.playVideo(); 
+         $('#central-button').attr("src","pause.png"); 
+         window.lectureVideo  = true;
+        }else { 
+         player.pauseVideo();
+         $('#central-button').attr("src","play.png"); 
+         window.lectureVideo  = false;
+        }
+       });
     $('#button-next').click(function(){
         player.nextVideo();
     });
