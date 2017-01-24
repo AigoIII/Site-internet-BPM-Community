@@ -143,12 +143,23 @@ nav.navbar{
 
 /* Connection forms style */
 
+@keyframes animatetop {
+    from {top: -300px; opacity: 0}
+    to {top: 130px; opacity: 1}
+}
+
+@keyframes apparition{
+	from {opacity: 0}
+	to {opacity: 0.6}
+
+}
+
 #panel-connexion-gauche{
 	width: 40%;
 	position: fixed;
 	left: 7%;
 	top: 130px;
-	
+		
 	visibility: hidden;
 	z-index: 40;
 	float:left;
@@ -163,21 +174,7 @@ nav.navbar{
 	visibility: hidden;
 	z-index: 40;
 	float: right;
-}
 
-#connexion{
-	position: fixed;
-	left: 5%;
-	right: 5%;
-	top: 130px;
-	bottom: 0px;
-	visibility: hidden;
-	
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	vertical-align: center;
-	z-index: 40;
 }
 
 #fondco{
@@ -194,14 +191,20 @@ nav.navbar{
 
 #panel-connexion-gauche.connexion-visible {
 	visibility: visible;
+	animation-name: animatetop;
+    animation-duration: 0.4s;
 }
 
 #panel-connexion-droite.connexion-visible {
 	visibility: visible;
+	animation-name: animatetop;
+    animation-duration: 0.4s;
 }
 
 #fondco.connexion-visible {
 	visibility: visible;
+	animation-name: apparition;
+    animation-duration: 0.4s;
 }
 
 #form{
