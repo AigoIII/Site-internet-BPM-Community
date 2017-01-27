@@ -1,3 +1,5 @@
+/* Fonts */
+
 @font-face{
     font-family: Mark;
     src: url(../mark_my_words.ttf);
@@ -8,10 +10,14 @@
     src: url(../Roboto-Light.ttf);
 }
 
-#body{
+/* Mainpage Body style */
+
+body{
 	padding-top: 0px;
 	background-color: #f0f3f4;
 }
+
+/* Unused */
 
 .panel-body{
 	color: black;
@@ -26,6 +32,8 @@
 	color: black;
 }
 
+/* Big messages style */
+
 #welcome{
 	text-align: center;
 	font-family: Mark;
@@ -34,6 +42,8 @@
 	margin-bottom:90px;
 	
 }
+
+/* Big message mainpage style */
 
 #welcome-title{
 	text-align: center;
@@ -48,6 +58,8 @@
 	border-bottom: none;
 }
 
+/* Carousel style */
+
 #myCarousel{
 	height: 95%;
 }
@@ -56,17 +68,22 @@
 	filter:brightness(70%);
 }
 
+/* Navbar and  navbar logo style */
+
 nav.navbar{
 	font-size: 16px;
 	height: 74px;
 	font-family: Roboto-Light;
-	background-color: rgba(0, 0, 0, 0);
+	background-color: #f0f3f4;
 	z-index: 3;
 	position: fixed;
-	border-bottom: white;
+	border-bottom: solid black 1px;
 }
 
-
+nav.navbar-mainpage{
+	background-color: rgba(0, 0, 0, 0);
+	border: 0px;
+}
 
 #logo{
 	height: 60px;
@@ -75,6 +92,9 @@ nav.navbar{
 	left:2%;
 	display: block;
 }
+
+
+/* Actuality panels style */
 
 .festival{
 	width: 200px;
@@ -87,44 +107,81 @@ nav.navbar{
 	height: 160px;
 }
 
+/* Confirm buttons style */
+
 .btn-primary{
 	background-color: black; 
 }
 
+/* Mon Compte button style */
+
 #moncompte{
 	padding: 15px;
 	margin:0px;
-	margin-top: 10px;
-	margin-left: 20px; 
+	margin-top: 10px; 
 }
 
 #moncompte:hover{
 	color: black;
+	cursor:pointer;
 }
+
+/* Navbar tabs style */
 
 .onglet{
 	margin-top: 10px;
 	height: 40px;
-	color: white;
+	color: black;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
+	background-color: grey;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+	background-color: grey;
 }
 
 #liencompte{
 	padding: 0px;
+	margin-left: 20px;
 }
 
-#connexion{
+
+/* Connection forms style */
+
+@keyframes animatetop {
+    from {top: -300px; opacity: 0}
+    to {top: 130px; opacity: 1}
+}
+
+@keyframes apparition{
+	from {opacity: 0}
+	to {opacity: 0.6}
+
+}
+
+#panel-connexion-gauche{
+	width: 40%;
 	position: fixed;
-	left: 0px;
-	right :0px;
+	left: 7%;
 	top: 130px;
-	bottom: 0px;
+		
 	visibility: hidden;
-	
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	vertical-align: center;
 	z-index: 40;
+	float:left;
+}
+
+#panel-connexion-droite{
+	width: 40%;
+	position: fixed;
+	right: 7%;
+	top: 130px;
+	
+	visibility: hidden;
+	z-index: 40;
+	float: right;
+
 }
 
 #fondco{
@@ -139,17 +196,29 @@ nav.navbar{
 	z-index: 30;
 }
 
-#connexion.connexion-visible {
+#panel-connexion-gauche.connexion-visible {
 	visibility: visible;
+	animation-name: animatetop;
+    animation-duration: 0.4s;
+}
+
+#panel-connexion-droite.connexion-visible {
+	visibility: visible;
+	animation-name: animatetop;
+    animation-duration: 0.4s;
 }
 
 #fondco.connexion-visible {
 	visibility: visible;
+	animation-name: apparition;
+    animation-duration: 0.4s;
 }
 
 #form{
 	opacity: 1;
 }
+
+/* Upload panel style */
 
 #titreupload{
 	font-family: Mark;
@@ -186,6 +255,8 @@ nav.navbar{
 	height: 1000px;
 }
 
+/* Shuffle player button mainpage style */
+
 #lecture-shuffle{
 	z-index: 2;
 	height: 70px;
@@ -215,6 +286,7 @@ nav.navbar{
 	display: flex;
 	flex-direction:row;
 	justify-content:center;
+	cursor: pointer;
 	
 }
 
@@ -223,9 +295,7 @@ nav.navbar{
 	transition:0.5s;
 }
 
-/*#decalage:hover{
-	transform: translateX(15px);
-}*/
+/* Desciption mainpage ads style */
 
 .icone-multimedia{
 	width:30%;
@@ -248,6 +318,8 @@ nav.navbar{
 	font-size: 26px;
 }
 
+/* Playlists title style */
+
 #banniere-playlists{
 	background-color: #2b343b;
 	padding: 20px;
@@ -256,6 +328,8 @@ nav.navbar{
 	color: white;
 	font-family: Mark;
 }
+
+/* Colored playlists buttons/divs style */
 
 .bloc-playlist{
 	padding: 60px;
@@ -269,4 +343,34 @@ nav.navbar{
 .bloc-playlist:hover{
 	transform:scale(0.95);
 	transition:0.5s;
+}
+
+/* Footer style */
+
+#logo-footer{
+	height: 200px;
+	
+	display: block;
+}
+
+#copyright{
+	margin-top: 70px;
+}
+
+footer{
+	font-family: Roboto-Light;
+	background-color: #BDBDBD;
+	padding: 20px;
+	padding-left: 150px;
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+footer h4{
+	color: white;
+}
+
+#div-logo{
+	float: right;
+	margin-right: 10%;
 }

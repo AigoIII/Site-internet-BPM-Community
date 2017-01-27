@@ -34,7 +34,7 @@
 <body id="body">
 
     <!-- Navigation -->
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-mainpage navbar-inverse navbar-fixed-top" role="navigation">
         <a class="navbar-brand" href="index.html"><figure><img id="logo" src="logo.1.png"></figure></a>
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -58,10 +58,10 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><div class="onglet">Le son<b class="caret"></b></div></a>
                         <ul class="dropdown-menu">
                             <li>
-                                <a href="portfolio-1-col.html">House</a>
+                                <a href="leson.house.html">House</a>
                             </li>
                             <li>
-                                <a href="portfolio-2-col.html">Techno</a>
+                                <a href="leson.techno.html">Techno</a>
                             </li>
                             <li>
                                 <a href="portfolio-3-col.html">Disco</a>
@@ -276,48 +276,86 @@
         </div>
 
         <div class="row">
+            <a href="leson.house.html">
             <div class="col-md-6 bloc-playlist" style="background: linear-gradient(rgba(184, 84, 56, 0.6),rgba(184, 84, 56, 0.6)),url(house.jpg); background-size:cover;">
                 <h1>House</h1>
             </div>
+            </a>
+            <a href="leson.techno.html">
              <div class="col-md-4 bloc-playlist" style="background: linear-gradient(rgba(101, 71, 144, 0.6),rgba(101, 71, 144, 0.6)),url(techno.jpg); background-size:cover;">
                 <h1>Techno</h1>
             </div>
-            <div class="col-md-2 bloc-playlist" style="background: linear-gradient(rgba(183, 185, 89, 0.6),rgba(183, 185, 89, 0.6)),url(disco.jpg); background-size:cover;">
-                <h1>Disco</h1>
+            </a>
+            <a href="leson.psytrance.html">
+            <div class="col-md-2 bloc-playlist" style="background: linear-gradient(rgba(183, 119, 168, 0.6),rgba(183, 119, 168, 0.6)),url(psytrance.jpg); background-size:cover;">
+                <h1>Psytrance</h1>
             </div>
+            </a>
         </div>
         <div class="row">
+            <a href="leson.minimale.html">
             <div class="col-md-4 bloc-playlist" style="background: linear-gradient(rgba(136, 190, 199, 0.6),rgba(136, 190, 199, 0.6)),url(minimal.jpg); background-size:cover;">
                 <h1>Minimale</h1>
             </div>
+            </a>
+            <a href="leson.micro.html">
              <div class="col-md-2 bloc-playlist" style="background: linear-gradient(rgba(134, 190, 69, 0.6),rgba(134, 190, 69, 0.6)),url(micro.jpg); background-size:cover;">
                 <h1>Micro</h1>
             </div>
-            <div class="col-md-6 bloc-playlist" style="background: linear-gradient(rgba(183, 119, 168, 0.6),rgba(183, 119, 168, 0.6)),url(psytrance.jpg); background-size:cover;">
-                <h1>Psytrance</h1>
+            </a>
+            <a href="leson.disco.html">
+            <div class="col-md-6 bloc-playlist" style="background: linear-gradient(rgba(183, 185, 89, 0.6),rgba(183, 185, 89, 0.6)),url(disco.jpg); background-size:cover;">
+                <h1>Disco-Funk</h1>
             </div>
+            </a>
         </div>
 
-        <hr>
-
         <!-- Footer -->
-        <footer>
+        <footer id="footer">
+            
             <div class="row">
-                <div class="col-lg-8">
-                    qfbqdfgqdgdfgqerg
+
+                <div class="col-md-2">
+                        <h4>Nous contacter</h4>
+                        <p>HEI</p>
+                        <p>
+                        13, rue de Toul.<br>59800 Lille, France.<br>
+                    </p>
+                    <p><i class="fa fa-phone"></i> 
+                        <abbr title="Phone">P</abbr>: (+33) 669389493</p>
+                    <p><i class="fa fa-envelope-o"></i> 
+                        <abbr title="Email">E</abbr>: <a href="mailto:name@example.com">augustin.andre@hei.yncrea.fr</a>
+                    </p>
+                    
                 </div>
-            </div>
-            <div class="row">
+                <div class="col-md-2">
+                   
+                    <h4>A propos</h4>
+                    <a href="contact.html"><p>Qui sommes-nous ?</p></a>
+                </div>
+                 <div class="col-md-2">
+                    <h4>Retrouvez nous sur :</h4>
+                    <p><a href="https://www.facebook.com/BePartoftheMovement?fref=ts" target="_blank"><i class="fa fa-facebook-square" style="font-size:36px"></i>  Facebook </a></p>
+                    <p><a href="https://www.youtube.com/channel/UCAoCiHIim7cqEkCE2ioLCEA" target="_blank"><i class="fa fa-youtube" style="font-size:36px"></i>  Youtube </a></p>
+                    
+                </div>
+                <div id="div-logo" class="col-md-2">
+                    <img id="logo-footer" src="logo.png">
+
+                </div>
+          
+            <div id="copyright" class="row">
                 <div class="col-lg-12">
                     <p>Copyright &copy; BPM Community 2016. Site créé par Alexandre Caulliez et Lancelot de la Taille - Tous droits réservés</p>
                 </div>
             </div>
+
         </footer>
 
         <div id="fondco"></div>
 
-        <div id="connexion">
-            <div class="col-md-3">
+        
+            <div id="panel-connexion-gauche" class="col-md-3">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4>Se Connecter</h4>
@@ -347,7 +385,7 @@
                 </div>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div id="panel-connexion-droite" class="col-md-3">
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4>Pas de Compte ?</h4>
@@ -394,7 +432,7 @@
                 </form>   
                  </div>
             </div>
-        </div>
+        
 
     </div>
     <!-- /.container -->
@@ -415,11 +453,19 @@
 
     <script type="text/javascript">
     $('#moncompte').click(function(){
-        $('#connexion').toggleClass('connexion-visible');
+        $('#panel-connexion-gauche').toggleClass('connexion-visible');
         });
     // Toggle la pop-up {
-    $('.class-bouton-fermer-pop-up').click(function(){
-        $('#fondco').removeClass('connexion-visible');
+    $('#fondco').click(function(){
+        $('#panel-connexion-gauche').removeClass('connexion-visible');
+    });
+
+     $('#moncompte').click(function(){
+        $('#panel-connexion-droite').toggleClass('connexion-visible');
+        });
+    // Toggle la pop-up {
+    $('#fondco').click(function(){
+        $('#panel-connexion-droite').removeClass('connexion-visible');
     });
 
     $('#moncompte').click(function(){
