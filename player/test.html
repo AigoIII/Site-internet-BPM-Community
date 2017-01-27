@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test de Player</title>
+    <link type="text/css" rel="stylesheet" href="style_player.css"></link>
+    <script src="https://www.youtube.com/iframe_api"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="player-script.js"></script>
+</head>
+
+<body>
+
+    <div id="player">
+    </div>
+
+    <div id="controller">
+        <div id="button-container">
+            <img id="button-previous" class="button" src="back.png">
+            <img id="central-button" class="button" src="play.png">
+            <img id="button-next" class="button" src="next.png">
+        </div>
+        <div id="timer-container">
+            <div id="current-time" class="timer">0:00</div>
+            <div id="slash" class="timer">/</div>
+            <div id="duration" class="timer">0:00</div>
+            <input type="range" id="progress-bar" value="0">
+        </div>
+    </div>
+
+
+   
+</body>
+</html>
