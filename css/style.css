@@ -74,14 +74,15 @@ nav.navbar{
 	font-size: 16px;
 	height: 74px;
 	font-family: Roboto-Light;
-	background-color: #BDBDBD;
+	background-color: #f0f3f4;
 	z-index: 3;
-	position: fixed;;
-	border-bottom: white;
+	position: fixed;
+	border-bottom: solid black 1px;
 }
 
 nav.navbar-mainpage{
 	background-color: rgba(0, 0, 0, 0);
+	border: 0px;
 }
 
 #logo{
@@ -130,7 +131,7 @@ nav.navbar-mainpage{
 .onglet{
 	margin-top: 10px;
 	height: 40px;
-	color: white;
+	color: black;
 }
 
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
