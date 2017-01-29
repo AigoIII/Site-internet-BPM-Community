@@ -131,7 +131,7 @@ nav.navbar-mainpage{
 .onglet{
 	margin-top: 10px;
 	height: 40px;
-	color: black;
+	color : white;
 }
 
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
