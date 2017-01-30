@@ -10,6 +10,11 @@
     src: url(../Roboto-Light.ttf);
 }
 
+@font-face{
+    font-family: Roboto-Thin;
+    src: url(../Roboto-Thin.ttf);
+}
+
 /* Mainpage Body style */
 
 body{
@@ -97,14 +102,51 @@ nav.navbar-mainpage{
 /* Actuality panels style */
 
 .festival{
-	width: 200px;
+	width: 100%;
+	padding: 0;
+}
+
+.fest-name{
+	text-align: center;
+	font-family: Roboto-Light;
+}
+
+.event{
+	margin: 20px 0px;
+}
+
+#row-events{
+	padding: 5% 15%;
+}
+
+.imgDescription {
+	font-family: Roboto-Thin;
+    position: absolute;
+    z-index: 2;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    left: 15px;
+    right: 15px;
+    top: 0;
+    bottom: 0;
+    padding: 5px;
+    opacity:0;
+    transition: 0.4s;
+    overflow-y: auto;
+    text-align: center;
+}
+
+.imgDescription:hover {
+  visibility: visible;
+  opacity: 1;
 }
 
 .fest{
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
 	height: 160px;
+	background-color: white;
+}
+
+.panel-default{
 }
 
 /* Confirm buttons style */
@@ -321,6 +363,15 @@ nav.navbar-mainpage{
 /* Playlists title style */
 
 #banniere-playlists{
+	background-color: #2b343b;
+	padding: 20px;
+	text-align: center;
+	font-size: 26px;
+	color: white;
+	font-family: Mark;
+}
+
+.banner{
 	background-color: #2b343b;
 	padding: 20px;
 	text-align: center;
