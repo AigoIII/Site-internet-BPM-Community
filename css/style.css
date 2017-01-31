@@ -43,8 +43,8 @@ body{
 	text-align: center;
 	font-family: Mark;
 	font-size: 90px;
-	margin-top: 240px;
-	margin-bottom:90px;
+	margin-top: 160px;
+	margin-bottom:70px;
 	
 }
 
@@ -98,12 +98,20 @@ nav.navbar-mainpage{
 	display: block;
 }
 
-
 /* Actuality panels style */
+
+#fete{
+	margin-bottom: 30px;
+}
 
 .festival{
 	width: 100%;
 	padding: 0;
+}
+
+.illustration{
+	position: relative;
+	width: 100%;
 }
 
 .fest-name{
@@ -120,7 +128,7 @@ nav.navbar-mainpage{
 }
 
 .imgDescription {
-	font-family: Roboto-Thin;
+	font-family: Roboto-Light;
     position: absolute;
     z-index: 2;
     background: rgba(0, 0, 0, 0.8);
@@ -144,9 +152,6 @@ nav.navbar-mainpage{
 .fest{
 	height: 160px;
 	background-color: white;
-}
-
-.panel-default{
 }
 
 /* Confirm buttons style */
@@ -194,7 +199,7 @@ nav.navbar-mainpage{
 
 @keyframes animatetop {
     from {top: -300px; opacity: 0}
-    to {top: 130px; opacity: 1}
+    to {top: 100px; opacity: 1}
 }
 
 @keyframes apparition{
@@ -203,39 +208,46 @@ nav.navbar-mainpage{
 
 }
 
-#panel-connexion-gauche{
-	width: 40%;
-	position: fixed;
-	left: 7%;
-	top: 130px;
-		
+.apparition{
 	visibility: hidden;
 	z-index: 40;
+	position: fixed;
+}
+
+#actu{
+	left:20%;
+	top: 100px;
+}
+
+#panel-connexion-gauche{
+	width: 40%;
+	left: 7%;
+	top: 100px;
 	float:left;
 }
 
 #panel-connexion-droite{
 	width: 40%;
-	position: fixed;
 	right: 7%;
-	top: 130px;
-	
-	visibility: hidden;
-	z-index: 40;
+	top: 100px;
 	float: right;
-
 }
 
 #fondco{
 	background-color: black;
 	opacity: 0.6;
-	visibility: hidden;
-	position: fixed;
 	left: 0px;
 	right :0px;
 	top: 0px;
 	bottom: 0px;
 	z-index: 30;
+}
+
+
+#panel-connexion-droite.connexion-visible {
+	visibility: visible;
+	animation-name: animatetop;
+    animation-duration: 0.4s;
 }
 
 #panel-connexion-gauche.connexion-visible {
@@ -244,13 +256,7 @@ nav.navbar-mainpage{
     animation-duration: 0.4s;
 }
 
-#panel-connexion-droite.connexion-visible {
-	visibility: visible;
-	animation-name: animatetop;
-    animation-duration: 0.4s;
-}
-
-#fondco.connexion-visible {
+.apparition#fondco.connexion-visible {
 	visibility: visible;
 	animation-name: apparition;
     animation-duration: 0.4s;
@@ -258,6 +264,12 @@ nav.navbar-mainpage{
 
 #form{
 	opacity: 1;
+}
+
+#actu.connexion-visible{
+	visibility: visible;
+	animation-name: animatetop;
+	animation-duration: 0.4s;
 }
 
 /* Upload panel style */
