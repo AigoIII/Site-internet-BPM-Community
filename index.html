@@ -446,45 +446,45 @@
 
     <!-- Script to Activate the Carousel -->
     <script>
-    $('.carousel').carousel({
-        interval: 5000 //changes the speed
-    })
+        $('.carousel').carousel({
+            interval: 5000 //changes the speed
+        })
     </script>
 
     <script type="text/javascript">
-    $('#moncompte').click(function(){
-        $('#panel-connexion-gauche').toggleClass('connexion-visible');
+        $('#moncompte').click(function(){
+            $('#panel-connexion-gauche').toggleClass('connexion-visible');
+            });
+        // Toggle la pop-up {
+        $('#fondco').click(function(){
+            $('#panel-connexion-gauche').removeClass('connexion-visible');
         });
-    // Toggle la pop-up {
-    $('#fondco').click(function(){
-        $('#panel-connexion-gauche').removeClass('connexion-visible');
-    });
 
-     $('#moncompte').click(function(){
-        $('#panel-connexion-droite').toggleClass('connexion-visible');
+         $('#moncompte').click(function(){
+            $('#panel-connexion-droite').toggleClass('connexion-visible');
+            });
+        // Toggle la pop-up {
+        $('#fondco').click(function(){
+            $('#panel-connexion-droite').removeClass('connexion-visible');
         });
-    // Toggle la pop-up {
-    $('#fondco').click(function(){
-        $('#panel-connexion-droite').removeClass('connexion-visible');
-    });
 
-    $('#moncompte').click(function(){
-        $('#fondco').toggleClass('connexion-visible');
+        $('#moncompte').click(function(){
+            $('#fondco').toggleClass('connexion-visible');
+            });
+        // Toggle la pop-up {
+        $('#fondco').click(function(){
+            $('#fondco').removeClass('connexion-visible');
         });
-    // Toggle la pop-up {
-    $('#fondco').click(function(){
-        $('#fondco').removeClass('connexion-visible');
-    });
 
-    $(window).scroll(function () {
-    if ($(window).scrollTop() >= 50) {
-    $('.navbar').css('background','#f0f3f4');
-    $('.onglet').css('color','black');
-    } else {
-    $('.navbar').css('background','transparent');
-    $('.onglet').css('color','white');
-    }
-    });
+        $(window).scroll(function () {
+        if ($(window).scrollTop() >= 50) {
+        $('.navbar').css('background','#f0f3f4');
+        $('.onglet').css('color','black');
+        } else {
+        $('.navbar').css('background','transparent');
+        $('.onglet').css('color','white');
+        }
+        });
     </script>
 
 

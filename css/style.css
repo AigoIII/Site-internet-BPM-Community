@@ -74,7 +74,7 @@ nav.navbar{
 	font-size: 16px;
 	height: 74px;
 	font-family: Roboto-Light;
-	background-color: #f0f3f4;
+	background-color: #2b343b;
 	z-index: 3;
 	position: fixed;
 	border-bottom: solid black 1px;
@@ -136,10 +136,12 @@ nav.navbar-mainpage{
 
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
 	background-color: grey;
+	height: 74px;
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
 	background-color: grey;
+	height: 74px;
 }
 
 #liencompte{
