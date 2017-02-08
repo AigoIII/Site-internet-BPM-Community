@@ -376,3 +376,7 @@ footer h4{
 	float: right;
 	margin-right: 10%;
 }
+
+a:link{ 
+	text-decoration:none; 
+} 
