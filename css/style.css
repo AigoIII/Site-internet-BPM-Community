@@ -54,11 +54,11 @@ body{
 	text-align: center;
 	font-family: Mark;
 	font-size: 90px;
-	margin: auto;
 	margin-top: 240px;
 	margin-bottom:90px;
 	position: absolute;
 	z-index: 1;
+	left: 12%;
 	color: white;
 	border-bottom: none;
 }
