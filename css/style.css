@@ -211,12 +211,10 @@ nav.navbar-mainpage{
 .apparition{
 	visibility: hidden;
 	z-index: 40;
-	position: fixed;
 }
 
 #actu{
-	left:20%;
-	top: 100px;
+	top : 100px;
 }
 
 #panel-connexion-gauche{
@@ -241,6 +239,13 @@ nav.navbar-mainpage{
 	top: 0px;
 	bottom: 0px;
 	z-index: 30;
+	overflow-y: scroll;
+	visibility: hidden;
+	z-index: 40;
+	position: fixed;
+	display: flex;
+	justify-content: center;
+	padding-top: 100px;
 }
 
 
@@ -268,7 +273,7 @@ nav.navbar-mainpage{
 
 #actu.connexion-visible{
 	visibility: visible;
-	animation-name: animatetop;
+	/*animation-name: animatetop;*/
 	animation-duration: 0.4s;
 }
 
