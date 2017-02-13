@@ -2,17 +2,17 @@
 
 @font-face{
     font-family: Mark;
-    src: url(../mark_my_words.ttf);
+    src: url(../fonts/mark_my_words.ttf);
 }
 
 @font-face{
     font-family: Roboto-Light;
-    src: url(../Roboto-Light.ttf);
+    src: url(../fonts/Roboto-Light.ttf);
 }
 
 @font-face{
     font-family: Roboto-Thin;
-    src: url(../Roboto-Thin.ttf);
+    src: url(../fonts/Roboto-Thin.ttf);
 }
 
 /* Mainpage Body style */
