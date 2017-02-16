@@ -183,12 +183,12 @@ nav.navbar-mainpage{
 }
 
 .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover{
-	background-color: grey;
+	background-color: rgba(0, 0, 0, 0.4); ;
 	height: 74px;
 }
 
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
-	background-color: grey;
+	background-color: rgba(0, 0, 0, 0.4); ;
 	height: 74px;
 }
 
@@ -445,3 +445,56 @@ footer h4{
 a:link{ 
 	text-decoration:none; 
 } 
+
+@media only screen and (max-width:768px) {
+
+
+	.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+		border-style:none;
+	}
+
+	#logo{
+		display: none;
+	}
+
+	#welcome-title{
+		font-size: 60px;
+	}
+
+	#demarrer-lecture{
+		display: none;
+	}
+
+	#bs-example-navbar-collapse-1{
+		background-color: #2b343b;
+		height: 10000px;
+		text-align: center;
+	}
+
+
+	li.dropdown{
+		text-align: center;
+	}
+
+	#moncompte{
+		width:50%;
+	}
+}
+
+@media only screen and (max-device-width:600px) {
+
+	#welcome-title{
+		font-size: 40px;
+		margin-top: 130px;
+	}
+
+	#decalage{
+		margin-top: 300px;
+	}
+
+	#bs-example-navbar-collapse-1{
+		background-color: #2b343b;
+		height: 10000px;
+	}
+
+}
