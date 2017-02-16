@@ -101,8 +101,14 @@ nav.navbar-mainpage{
 
 /* Actuality panels style */
 
+h1#welcome-title small{
+	color:white;
+	display: block;
+}
+
 #fete{
 	margin-bottom: 30px;
+	filter: brightness(70%);
 }
 
 .festival{
@@ -384,7 +390,7 @@ nav.navbar-mainpage{
 	text-align: center;
 	font-size: 26px;
 	color: white;
-	font-family: Mark;
+	font-family: Roboto-Light;
 }
 
 .banner{
@@ -393,23 +399,28 @@ nav.navbar-mainpage{
 	text-align: center;
 	font-size: 26px;
 	color: white;
-	font-family: Mark;
+	font-family: Roboto-Light;
 }
 
 /* Colored playlists buttons/divs style */
 
 .bloc-playlist{
 	padding: 60px;
-	padding-bottom: 200px;
+	padding: 100px 0px;
 	border: solid 2px white;
 	color: white;
-	font-family: Roboto-Light;
+	font-family: Mark;
 	text-align: center;
+	transition: 0.6s;
+}
+
+.bloc-playlist h1{
+	font-size: 40px;
 }
 
 .bloc-playlist:hover{
 	transform:scale(0.95);
-	transition:0.5s;
+	transition:0.6s;
 }
 
 /* Footer style */
@@ -422,19 +433,22 @@ nav.navbar-mainpage{
 
 #copyright{
 	margin-top: 70px;
+	text-align: center;
 }
 
 footer{
 	font-family: Roboto-Light;
 	background-color: #BDBDBD;
-	padding: 20px;
-	padding-left: 150px;
-	margin-left: -15px;
-	margin-right: -15px;
+	padding-top: 20px;
+	
 }
 
 footer h4{
 	color: white;
+}
+
+footer div.col-md-4{
+	padding-left: 80px;
 }
 
 #div-logo{
