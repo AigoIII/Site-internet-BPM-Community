@@ -1,0 +1,107 @@
+package bpm.model;
+
+
+
+import java.io.Serializable;
+import java.util.Date;
+
+public class Utilisateur implements Serializable {
+	private static final long serialVersionUID = -1167387777176439635L;
+
+	private Long idUtilisateur;
+	private String nomUtilisateur;
+	private String prenomUtilisateur;
+	private String emailUtilisateur;
+	private boolean admin;
+	private int nbSonPropose;
+	private int nbSonAccepte;
+	private Date dateDerniereConnexion;
+	
+	
+	
+	public Utilisateur(Long id, String nom, String prenom, String email, boolean admin) {
+		super();
+		this.idUtilisateur = idUtilisateur;
+		this.nomUtilisateur = nomUtilisateur;
+		this.prenomUtilisateur = prenomUtilisateur;
+		this.emailUtilisateur = emailUtilisateur;
+		this.admin = admin;
+		this.nbSonPropose = nbSonPropose;
+		this.nbSonAccepte = nbSonAccepte;
+		this.dateDerniereConnexion = dateDerniereConnexion;
+	}
+	
+	public Utilisateur() {
+		super();
+	}
+
+
+
+	public Long getIdUtilisateur() {
+		return idUtilisateur;
+	}
+
+	public void setIdUtilisateur(Long idUtilisateur) {
+		this.idUtilisateur = idUtilisateur;
+	}
+
+	public String getNomUtilisateur() {
+		return nomUtilisateur;
+	}
+
+	public void setNomUtilisateur(String nomUtilisateur) {
+		this.nomUtilisateur = nomUtilisateur;
+	}
+
+	public String getPrenomUtilisateur() {
+		return prenomUtilisateur;
+	}
+
+	public void setPrenomUtilisateur(String prenomUtilisateur) {
+		this.prenomUtilisateur = prenomUtilisateur;
+	}
+
+	public String getEmailUtilisateur() {
+		return emailUtilisateur;
+	}
+
+	public void setEmailUtilisateur(String emailUtilisateur) {
+		this.emailUtilisateur = emailUtilisateur;
+	}
+
+	public int getNbSonPropose() {
+		return nbSonPropose;
+	}
+
+	public void setNbSonPropose(int nbSonPropose) {
+		this.nbSonPropose = nbSonPropose;
+	}
+
+	public int getNbSonAccepte() {
+		return nbSonAccepte;
+	}
+
+	public void setNbSonAccepte(int nbSonAccepte) {
+		this.nbSonAccepte = nbSonAccepte;
+	}
+
+	public Date getDateDerniereConnexion() {
+		return dateDerniereConnexion;
+	}
+
+	public void setDateDerniereConnexion(Date dateDerniereConnexion) {
+		this.dateDerniereConnexion = dateDerniereConnexion;
+	}
+	
+
+	public boolean isAdmin() {
+		return admin;
+	}
+
+	public void setAdmin(boolean admin) {
+		this.admin = admin;
+	}
+
+
+	
+}

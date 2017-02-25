@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="UtilisateurManagerTestCase" project="bpm" tests="33" started="33" failures="0" errors="33" ignored="0">
+  <testsuite name="bpm.daos.impl.UtilisateurManagerTestCase" time="0.077">
+    <testcase name="shouldNotReinitialiserMotDePasseAvecIdNull" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.058">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotValiderMotDePasseAvecEmailInexistant" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotValiderMotDePasseAvecSecurityException" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotGetUtilisateurParMailAvecEmailVide" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldReturnElevesAvecTravauxEtProjetEtMoyenne" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotListerAutresElevesAvecIdNull" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotReinitialiserMotDePasseAvecPatientNull" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotValiderMotDePasseAvecEmailNull" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotValiderMotDePasseAvecEmailVide" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldListerEmailElevesPourEnvoi" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldAjouterUtilisateur" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotModifierMotDePasseAvecMotDePassesDifferents" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldGetUtilisateurParMail" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotAjouterUtilisateurAvecExceptionSecurite" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotModifierMotDePasseAvecExceptionSecurite" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldSupprimerUtilisateur" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#13;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldValiderMotDePasse" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldListerUtilisateurs" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotSupprimerUtilisateurAvecIdNull" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotModifierMotDePasseAvecPremierNull" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotModifierMotDePasseAvecPremierVide" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldListerAutresEleves" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldGetUtilisateurParMailAvecEmailNull" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldModifierMotDePasse" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotValiderMotDePasseAvecMotDePasseNull" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotValiderMotDePasseAvecMotDePasseVide" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotModifierMotDePasseAvecDeuxiemeNull" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotModifierMotDePasseAvecDeuxiemeVide" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotReinitialiserMotDePasseAvecExceptionSecurite" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotAjouterUtilisateurAvecEmailNull" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotAjouterUtilisateurAvecEmailVide" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.001">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldNotAjouterUtilisateurAvecUtilisateurExistant" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="shouldReinitialiserMotDePasse" classname="bpm.daos.impl.UtilisateurManagerTestCase" time="0.0">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(null) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method reinitialiserMotDePasse(long) is undefined for the type UtilisateurManager
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The method getId() is undefined for the type Utilisateur
+	The method getEmail() is undefined for the type Utilisateur
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, null, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method ajouterUtilisateur(Utilisateur) is undefined for the type UtilisateurManager
+	The constructor Utilisateur(null, String, String, String, null, boolean) is undefined
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, null, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, null) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	The method modifierMotDePasse(long, String, String) is undefined for the type UtilisateurManager
+	EleveAvecTravauxEtProjet cannot be resolved to a type
+	The method listerElevesAvecTravauxEtProjet() is undefined for the type UtilisateurManager
+	Syntax error, insert "}" to complete MethodBody
+	Syntax error, insert "}" to complete ClassBody
+	The method listerEmailsElevesPourEnvoi() is undefined for the type UtilisateurManager
+&#13;
+	at bpm.daos.impl.UtilisateurManagerTestCase.&lt;init&gt;(UtilisateurManagerTestCase.java:309)&#13;
+	at sun.reflect.GeneratedConstructorAccessor2.newInstance(Unknown Source)&#13;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)&#13;
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.createTest(BlockJUnit4ClassRunner.java:217)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner$1.runReflectiveCall(BlockJUnit4ClassRunner.java:266)&#13;
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.methodBlock(BlockJUnit4ClassRunner.java:263)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78)&#13;
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57)&#13;
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)&#13;
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)&#13;
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)&#13;
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)&#13;
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)&#13;
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)&#13;
+	at org.mockito.internal.runners.JUnit45AndHigherRunnerImpl.run(JUnit45AndHigherRunnerImpl.java:37)&#13;
+	at org.mockito.runners.MockitoJUnitRunner.run(MockitoJUnitRunner.java:62)&#13;
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:678)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

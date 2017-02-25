@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MotDePasseUtils.java&apos; to &apos;bpm/src/main/java/bpm.utils&apos;&#x0D;&#x0A;- Original project: &apos;tp03&apos;&#x0D;&#x0A;- Destination element: &apos;bpm/src/main/java/bpm.utils&apos;&#x0D;&#x0A;- Original element: &apos;MotDePasseUtils.java&apos;" description="Copy file" destination="=bpm/src\/main\/java&lt;bpm.utils" element1="src/main/java/hei/devweb/utils/MotDePasseUtils.java" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1487614830995" units="0" version="1.0"/>
+</session>

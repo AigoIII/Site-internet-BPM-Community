@@ -13,3 +13,730 @@
 2017-02-13 15:38:24,559 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
 2017-02-13 15:38:24,559 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-02-13 15:38:24,559 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-18 16:25:20,014 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: hei.projet:bpm:0.0.1-SNAPSHOT @ C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\pom.xml.
+2017-02-18 16:25:29,247 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 16:25:29,247 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-18 16:25:29,249 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 16:25:29,249 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-18 16:25:37,333 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: hei.projet:bpm:0.0.1-SNAPSHOT @ C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\pom.xml.
+2017-02-18 16:25:40,572 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 16:25:40,573 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-18 16:25:40,575 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-18 16:25:40,575 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 13:20:25,581 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 13:20:25,626 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 13:20:25,628 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 13:20:25,628 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 15:25:21,634 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:25:21,636 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 15:25:21,637 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:25:21,637 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 15:35:21,314 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:35:21,316 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 15:35:21,317 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:35:21,317 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 15:36:13,438 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:36:13,439 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 15:36:13,441 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:36:13,441 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 15:36:25,153 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:36:25,153 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 15:36:25,154 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:36:25,154 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 15:36:54,191 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:36:54,191 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 15:36:54,193 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:36:54,193 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 15:39:41,497 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:39:41,502 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 15:39:41,506 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:39:41,506 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 15:58:17,295 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:58:17,298 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 15:58:17,300 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:58:17,301 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 15:58:35,221 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:58:35,221 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 15:58:35,223 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:58:35,223 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 15:59:31,747 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:59:31,748 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 15:59:31,749 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:59:31,749 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 15:59:38,755 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:59:38,755 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 15:59:38,757 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 15:59:38,757 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 16:19:00,382 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 16:19:00,389 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 16:19:00,392 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 16:19:00,392 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 16:19:39,477 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 16:19:39,477 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 16:19:39,479 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 16:19:39,479 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 18:34:05,084 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 18:34:05,087 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 18:34:05,089 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 18:34:05,089 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 18:56:55,808 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: hei.devweb:tp03:0.0.1-SNAPSHOT @ C:\Users\tolec_000\Downloads\tp03-correction\pom.xml.
+2017-02-20 18:56:56,476 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp03/src/main/java
+2017-02-20 18:56:56,477 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tp03/src/main/resources
+2017-02-20 18:56:56,485 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /tp03/src/test/java
+2017-02-20 18:56:56,485 [Worker-36] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /tp03/src/test/resources
+2017-02-20 18:56:58,254 [Worker-36] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2017-02-20 18:56:58,780 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 18:56:58,786 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-20 18:56:58,789 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 18:56:58,789 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-20 18:58:57,492 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 18:58:57,492 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 18:58:57,494 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 18:58:57,494 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 19:00:14,882 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:00:14,882 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 19:00:14,883 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:00:14,884 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 19:17:38,002 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:17:38,003 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 19:17:38,005 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:17:38,005 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 19:18:03,403 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:18:03,403 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 19:18:03,407 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:18:03,407 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 19:18:48,833 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:18:48,833 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 19:18:48,835 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:18:48,836 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 19:19:38,832 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:19:38,833 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 19:19:38,840 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:19:38,840 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 19:20:17,146 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:20:17,146 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 19:20:17,147 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:20:17,148 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 19:20:31,155 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:20:31,155 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 19:20:31,156 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:20:31,157 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 19:21:52,596 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:21:52,596 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 19:21:52,601 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:21:52,601 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-20 19:22:34,528 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:22:34,528 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-20 19:22:34,529 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-20 19:22:34,529 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-21 10:49:23,816 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:49:23,827 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-21 10:49:23,834 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:49:23,835 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-21 10:49:42,585 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: hei.devweb:tp03:0.0.1-SNAPSHOT @ C:\Users\tolec_000\Downloads\tp03-correction\pom.xml.
+2017-02-21 10:49:44,715 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:49:44,726 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-21 10:49:44,731 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:49:44,732 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-21 10:59:00,410 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-21 10:59:00,532 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: hei.projet:bpm:0.0.1-SNAPSHOT @ C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\pom.xml.
+2017-02-21 10:59:00,748 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bpm/src/main/java
+2017-02-21 10:59:00,748 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bpm/src/test/java
+2017-02-21 10:59:02,210 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bpm
+2017-02-21 10:59:02,210 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-21 10:59:02,496 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:59:02,496 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-21 10:59:02,496 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:59:02,496 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-21 10:59:02,496 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bpm
+2017-02-21 10:59:02,496 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bpm
+2017-02-21 10:59:02,533 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:59:07,467 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:59:07,467 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-21 10:59:07,469 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 10:59:07,469 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-21 11:02:00,365 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:02:00,365 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-21 11:02:00,365 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:02:00,365 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-21 11:11:54,866 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:11:54,870 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-21 11:11:54,874 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:11:54,874 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-21 11:14:27,135 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:14:27,135 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-21 11:14:27,139 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:14:27,143 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-21 11:14:41,499 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:14:41,499 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-21 11:14:41,499 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:14:41,499 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-21 11:48:24,183 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:48:24,183 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-21 11:48:24,198 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:48:24,198 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-21 11:50:16,798 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:50:16,798 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-21 11:50:16,798 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:50:16,798 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-21 11:50:32,583 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:50:32,583 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-21 11:50:32,583 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-21 11:50:32,583 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 15:42:14,993 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 15:42:15,047 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 15:42:15,048 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 15:42:15,048 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 15:44:08,981 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 15:44:08,981 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 15:44:08,983 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 15:44:08,983 [Worker-383] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 15:58:46,260 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 15:58:46,261 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 15:58:46,265 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 15:58:46,266 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 16:00:40,017 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 16:00:40,018 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 16:00:40,019 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 16:00:40,019 [Worker-390] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 16:00:52,657 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 16:00:52,657 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 16:00:52,659 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 16:00:52,660 [Worker-400] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 16:15:41,502 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 16:15:41,502 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 16:15:41,502 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 16:15:41,502 [Worker-395] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 16:52:56,890 [Worker-424] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: hei.iti4.devweb:learnings:2.0a @ C:\Users\tolec_000\Downloads\learnings-master\learnings-master\pom.xml.
+2017-02-23 16:53:00,253 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.40/mysql-connector-java-5.1.40.pom
+2017-02-23 16:53:00,363 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.40/mysql-connector-java-5.1.40.pom
+2017-02-23 16:53:03,071 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.pom
+2017-02-23 16:53:03,157 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.pom
+2017-02-23 16:53:03,233 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ognl/ognl/3.1.12/ognl-3.1.12.pom
+2017-02-23 16:53:03,594 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ognl/ognl/3.1.12/ognl-3.1.12.pom
+2017-02-23 16:53:03,801 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.pom
+2017-02-23 16:53:03,912 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.pom
+2017-02-23 16:53:04,011 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.pom
+2017-02-23 16:53:04,122 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.pom
+2017-02-23 16:53:04,453 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.22/slf4j-simple-1.7.22.pom
+2017-02-23 16:53:04,586 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.22/slf4j-simple-1.7.22.pom
+2017-02-23 16:53:04,633 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.22/slf4j-parent-1.7.22.pom
+2017-02-23 16:53:04,727 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.7.22/slf4j-parent-1.7.22.pom
+2017-02-23 16:53:04,837 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.pom
+2017-02-23 16:53:05,001 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.7.22/slf4j-api-1.7.22.pom
+2017-02-23 16:53:05,294 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.pom
+2017-02-23 16:53:05,472 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.pom
+2017-02-23 16:53:06,192 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.40/mysql-connector-java-5.1.40.jar
+2017-02-23 16:53:07,746 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.40/mysql-connector-java-5.1.40.jar
+2017-02-23 16:53:07,813 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-23 16:53:09,285 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.0.3.RELEASE/thymeleaf-3.0.3.RELEASE.jar
+2017-02-23 16:53:09,348 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/ognl/ognl/3.1.12/ognl-3.1.12.jar
+2017-02-23 16:53:09,678 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/ognl/ognl/3.1.12/ognl-3.1.12.jar
+2017-02-23 16:53:09,719 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.jar
+2017-02-23 16:53:10,106 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.2.RELEASE/attoparser-2.0.2.RELEASE.jar
+2017-02-23 16:53:10,149 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar
+2017-02-23 16:53:10,367 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.4.RELEASE/unbescape-1.1.4.RELEASE.jar
+2017-02-23 16:53:10,416 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.22/slf4j-simple-1.7.22.jar
+2017-02-23 16:53:10,459 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-simple/1.7.22/slf4j-simple-1.7.22.jar
+2017-02-23 16:53:10,513 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar
+2017-02-23 16:53:11,990 [Worker-424] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar
+2017-02-23 16:53:16,105 [Worker-424] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /learnings/src/main/java
+2017-02-23 16:53:16,106 [Worker-424] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learnings/src/main/resources
+2017-02-23 16:53:16,134 [Worker-424] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /learnings/src/test/java
+2017-02-23 16:53:16,134 [Worker-424] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /learnings/src/test/resources
+2017-02-23 16:53:22,844 [Worker-424] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 27 sec
+2017-02-23 16:53:27,817 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 16:53:27,818 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 16:53:28,149 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 16:53:28,149 [Worker-425] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 17:02:00,748 [Worker-436] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:02:00,748 [Worker-436] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:02:00,750 [Worker-436] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:02:00,750 [Worker-436] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:03:02,958 [Worker-428] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:03:02,958 [Worker-428] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:03:02,959 [Worker-428] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:03:02,959 [Worker-428] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:03:51,081 [Worker-438] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-23 17:03:51,232 [Worker-438] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: hei.projet:bpm:0.0.1-SNAPSHOT @ C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\pom.xml.
+2017-02-23 17:03:52,497 [Worker-438] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bpm/src/main/java
+2017-02-23 17:03:52,497 [Worker-438] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bpm/src/test/java
+2017-02-23 17:03:52,746 [Worker-438] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bpm
+2017-02-23 17:03:52,785 [Worker-438] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-02-23 17:03:53,042 [Worker-438] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:03:53,042 [Worker-438] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:03:53,044 [Worker-438] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:03:53,044 [Worker-438] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:03:53,045 [Worker-438] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bpm
+2017-02-23 17:03:53,045 [Worker-438] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bpm
+2017-02-23 17:03:53,052 [Worker-438] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:04:45,360 [Worker-432] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:04:45,361 [Worker-432] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:04:45,362 [Worker-432] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:04:45,362 [Worker-432] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:05:35,674 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:05:35,675 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:05:35,676 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:05:35,676 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:05:40,634 [Worker-438] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-23 17:05:40,708 [Worker-438] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: hei.projet:bpm:0.0.1-SNAPSHOT @ C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\pom.xml.
+2017-02-23 17:05:40,990 [Worker-438] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bpm/src/main/java
+2017-02-23 17:05:40,990 [Worker-438] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bpm/src/test/java
+2017-02-23 17:05:41,247 [Worker-438] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bpm
+2017-02-23 17:05:41,255 [Worker-438] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-02-23 17:05:41,650 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:05:41,650 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:05:41,653 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:05:41,654 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:05:41,654 [Worker-433] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bpm
+2017-02-23 17:05:41,654 [Worker-433] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bpm
+2017-02-23 17:05:41,662 [Worker-433] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:09:57,763 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:09:57,763 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:09:57,764 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:09:57,765 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:10:17,421 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:10:17,421 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:10:17,422 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:10:17,423 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:10:29,714 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:10:29,715 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:10:29,716 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:10:29,716 [Worker-442] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:10:32,612 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:10:32,612 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:10:32,613 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:10:32,613 [Worker-441] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:10:49,742 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:10:49,743 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:10:49,745 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:10:49,745 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:10:55,254 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:10:55,255 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:10:55,256 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:10:55,257 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:11:15,018 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:11:15,019 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:11:15,021 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:11:15,021 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:11:40,305 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:11:40,305 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:11:40,306 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:11:40,306 [Worker-440] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:12:39,596 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:12:39,596 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:12:39,598 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:12:39,598 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:12:45,058 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:12:45,058 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:12:45,076 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:12:45,076 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:13:04,502 [Worker-439] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:13:04,502 [Worker-439] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:13:04,503 [Worker-439] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:13:04,503 [Worker-439] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:13:33,820 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:13:33,821 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:13:33,821 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:13:33,822 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:16:42,159 [Worker-445] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:16:42,161 [Worker-445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:16:42,162 [Worker-445] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:16:42,162 [Worker-445] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:20:36,025 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:20:36,025 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:20:36,026 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:20:36,026 [Worker-451] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:20:40,922 [Worker-454] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:20:40,923 [Worker-454] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:20:40,924 [Worker-454] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:20:40,924 [Worker-454] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:28:42,211 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:28:42,212 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:28:42,213 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:28:42,213 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:28:53,544 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:28:53,544 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:28:53,545 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:28:53,545 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:29:28,594 [Worker-459] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-02-23 17:29:28,695 [Worker-459] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: hei.projet:bpm:0.0.1-SNAPSHOT @ C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\pom.xml.
+2017-02-23 17:29:28,863 [Worker-459] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bpm/src/main/java
+2017-02-23 17:29:28,864 [Worker-459] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /bpm/src/test/java
+2017-02-23 17:29:29,144 [Worker-459] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for bpm
+2017-02-23 17:29:29,153 [Worker-459] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2017-02-23 17:29:29,583 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:29:29,583 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:29:29,585 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:29:29,585 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:29:29,585 [Worker-462] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bpm
+2017-02-23 17:29:29,585 [Worker-462] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bpm
+2017-02-23 17:29:29,606 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:34:29,220 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:34:29,220 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:34:29,221 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:34:29,222 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:34:38,703 [Worker-474] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:34:38,704 [Worker-474] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:34:38,705 [Worker-474] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:34:38,705 [Worker-474] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:35:09,590 [Worker-459] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:35:09,590 [Worker-459] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:35:09,591 [Worker-459] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:35:09,591 [Worker-459] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:38:15,537 [Worker-403] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:38:15,537 [Worker-403] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:38:15,538 [Worker-403] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:38:15,539 [Worker-403] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:38:46,697 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:38:46,697 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:38:46,698 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:38:46,698 [Worker-480] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:42:23,602 [Worker-479] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:42:23,603 [Worker-479] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:42:23,604 [Worker-479] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:42:23,605 [Worker-479] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:42:30,872 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:42:30,873 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:42:30,874 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:42:30,875 [Worker-483] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:56:57,423 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:56:57,426 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\main\resources
+2017-02-23 17:56:57,428 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:56:57,428 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 17:56:58,150 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:56:58,157 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 17:56:58,163 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:56:58,164 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 17:56:58,235 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:56:58,325 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-23 17:56:58,326 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 17:56:58,370 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-23 18:07:25,213 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:07:25,217 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:07:25,223 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:07:25,223 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:12:20,682 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:12:20,683 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-02-23 18:12:20,686 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:12:20,687 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:16:27,037 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:16:27,050 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:16:27,052 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:16:27,053 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:16:39,195 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:16:39,197 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:16:39,199 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:16:39,200 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:16:46,155 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:16:46,156 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:16:46,161 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:16:46,163 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:17:12,900 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:17:12,901 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:17:12,928 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:17:12,928 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:17:28,647 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:17:28,649 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:17:28,652 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:17:28,652 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:18:06,255 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:18:06,257 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:18:06,259 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:18:06,259 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:20:02,150 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:20:02,151 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:20:02,154 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:20:02,154 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:20:07,533 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:20:07,534 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:20:07,536 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:20:07,536 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:20:23,438 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:20:23,440 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:20:23,442 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:20:23,442 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:20:40,544 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:20:40,545 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:20:40,547 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:20:40,548 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:20:59,236 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:20:59,238 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:20:59,241 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:20:59,241 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:21:26,094 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:21:26,096 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:21:26,097 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:21:26,097 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:22:06,202 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:22:06,204 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:22:06,206 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:22:06,206 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:22:31,615 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:22:31,617 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:22:31,618 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:22:31,619 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:24:11,830 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:24:11,831 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:24:11,879 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:24:11,880 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:46:17,966 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:46:17,968 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:46:17,972 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:46:17,972 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:46:28,332 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:46:28,334 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:46:28,336 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:46:28,336 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:46:56,181 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:46:56,182 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:46:56,185 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:46:56,185 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:47:40,747 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:47:40,748 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:47:40,750 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:47:40,750 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-23 18:47:48,318 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:47:48,319 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-23 18:47:48,321 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-23 18:47:48,322 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:21:09,820 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:21:09,824 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:21:09,857 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:21:09,857 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:30:37,692 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:30:37,694 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:30:37,695 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:30:37,696 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:32:44,577 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:32:44,579 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:32:44,581 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:32:44,581 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:33:11,285 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:33:11,287 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:33:11,289 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:33:11,289 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:45:35,128 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:45:35,130 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:45:35,132 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:45:35,132 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:46:31,846 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:46:31,848 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:46:31,849 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:46:31,850 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:47:26,929 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:47:26,930 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:47:26,934 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:47:26,935 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:47:40,725 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:47:40,727 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:47:40,730 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:47:40,730 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:47:53,247 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:47:53,249 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:47:53,251 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:47:53,251 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:49:04,684 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:49:04,685 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:49:04,687 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:49:04,687 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:50:53,627 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:50:53,628 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:50:53,631 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:50:53,631 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:52:10,809 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:52:10,810 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:52:10,812 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:52:10,812 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:54:30,921 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:54:30,922 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:54:30,924 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:54:30,924 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:57:31,888 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:57:31,889 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:57:31,890 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:57:31,891 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:57:36,847 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:57:36,848 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:57:36,850 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:57:36,850 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:57:44,939 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:57:44,940 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:57:44,942 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:57:44,942 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:58:06,396 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:58:06,397 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:58:06,399 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:58:06,399 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 09:58:53,642 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:58:53,644 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 09:58:53,646 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 09:58:53,647 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 10:00:26,426 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:00:26,427 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 10:00:26,429 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:00:26,429 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 10:26:49,101 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:26:49,103 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 10:26:49,105 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:26:49,106 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 10:27:03,477 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:27:03,478 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 10:27:03,480 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:27:03,480 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 10:38:49,610 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:38:49,612 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 10:38:49,614 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:38:49,614 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 10:41:49,416 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:41:49,418 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 10:41:49,419 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:41:49,419 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 10:47:52,579 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:47:52,579 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 10:47:52,580 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:47:52,580 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 10:48:55,145 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:48:55,146 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 10:48:55,148 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:48:55,148 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 10:56:44,929 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:56:44,929 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 10:56:44,930 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:56:44,930 [Worker-191] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 10:57:26,962 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:57:26,965 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 10:57:26,977 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:57:26,978 [Worker-200] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 10:57:40,994 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:57:40,995 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 10:57:40,996 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 10:57:40,996 [Worker-198] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:00:14,044 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:00:14,045 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:00:14,045 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:00:14,046 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:00:53,452 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:00:53,452 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:00:53,453 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:00:53,453 [Worker-203] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:01:10,528 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:01:10,528 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:01:10,529 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:01:10,529 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:03:31,956 [Worker-196] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: hei.projet:bpm:0.0.1-SNAPSHOT @ C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\pom.xml.
+2017-02-24 11:03:35,055 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:03:35,056 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:03:35,057 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:03:35,057 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:03:35,058 [Worker-196] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of bpm
+2017-02-24 11:03:35,090 [Worker-196] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for bpm
+2017-02-24 11:03:35,095 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:03:36,369 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:03:36,370 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 11:03:36,378 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:03:36,378 [Worker-205] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:03:56,859 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:03:56,860 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:03:56,861 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:03:56,861 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:07:42,876 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:07:42,877 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:07:42,880 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:07:42,880 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:12:39,470 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:12:39,470 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:12:39,472 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:12:39,472 [Worker-213] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:14:56,566 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:14:56,567 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 11:14:56,569 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:14:56,569 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:15:06,415 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:15:06,417 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 11:15:06,418 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:15:06,418 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:16:08,469 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:16:08,470 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:16:08,472 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:16:08,472 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:27:39,482 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:27:39,482 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:27:39,483 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:27:39,483 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:27:44,490 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:27:44,491 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:27:44,492 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:27:44,492 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:28:13,167 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:28:13,168 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:28:13,169 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:28:13,170 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:28:16,834 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:28:16,834 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:28:16,835 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:28:16,835 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:28:53,706 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:28:53,707 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:28:53,708 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:28:53,708 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:29:11,773 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:29:11,774 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:29:11,775 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:29:11,775 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:29:16,388 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:29:16,388 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:29:16,389 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:29:16,389 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:29:19,516 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:29:19,517 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:29:19,518 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:29:19,518 [Worker-229] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:29:27,355 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:29:27,355 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:29:27,356 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:29:27,356 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:29:38,463 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:29:38,464 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:29:38,480 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:29:38,480 [Worker-234] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:31:47,332 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:31:47,333 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:31:47,334 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:31:47,334 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:32:05,386 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:32:05,386 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:32:05,387 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:32:05,387 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:33:27,056 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:33:27,057 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:33:27,057 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:33:27,058 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:34:31,701 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:34:31,702 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:34:31,703 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:34:31,704 [Worker-240] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:34:40,693 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:34:40,694 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:34:40,695 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:34:40,695 [Worker-227] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:35:03,317 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:35:03,317 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:35:03,318 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:35:03,318 [Worker-239] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:36:01,887 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:36:01,888 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:36:01,888 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:36:01,888 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:37:14,353 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:37:14,353 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:37:14,354 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:37:14,355 [Worker-243] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 11:38:15,028 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:38:15,029 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-02-24 11:38:15,030 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 11:38:15,030 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources
+2017-02-24 12:36:39,271 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 12:36:39,278 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2017-02-24 12:36:39,284 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-02-24 12:36:39,284 [Worker-247] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\tolec_000\Dropbox\Projet 100h ITI\Site internet BPM Community\workspace_bpm\bpm\src\test\resources

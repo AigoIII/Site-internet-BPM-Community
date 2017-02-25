@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.thymeleaf.templateresolver.ServletContextTemplateResolver"/>
+<fullyQualifiedTypeName name="org.thymeleaf.templatemode.TemplateMode"/>
+<fullyQualifiedTypeName name="org.thymeleaf.TemplateEngine"/>
+<fullyQualifiedTypeName name="org.thymeleaf.extras.java8time.dialect.Java8TimeDialect"/>
+<fullyQualifiedTypeName name="org.thymeleaf.context.WebContext"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="javax.servlet.annotation.WebServlet"/>
+</qualifiedTypeNameHistroy>
