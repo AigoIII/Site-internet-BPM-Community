@@ -476,8 +476,25 @@ a:link{
 		text-align: center;
 	}
 
-	#moncompte{
-		width:50%;
+	
+
+	.onglet{
+		margin-top: 0px;
+	}
+
+	#liencompte{
+		display: flex;
+		flex-direction: row;
+		justify-content:center;
+		margin-left: 0px;
+	}
+
+	.carousel-indicators{
+		z-index: -1;
+	}
+
+	.navbar-inverse .navbar-nav .open .dropdown-menu>li>a{
+		color: white;
 	}
 }
 
@@ -494,7 +511,41 @@ a:link{
 
 	#bs-example-navbar-collapse-1{
 		background-color: #2b343b;
-		height: 10000px;
+		height: 400px;
+		
+	}
+
+	#liencompte{
+		display: flex;
+		flex-direction: row;
+		justify-content:center;
+		margin-left: 0px;
+	}
+
+	footer{
+		padding-left: 10%;
+	}
+
+	#logo-footer{
+		display: none;
+	}
+
+	.bloc-playlist{
+		padding-bottom: 60px;
+	}
+
+	#banniere-playlists{
+		font-size: 10px;
+	}
+
+	.carousel-indicators{
+		display: none;
+	}
+
+	#panel-connexion-gauche, #panel-connexion-droite{
+		top: 10px;
+		width: 46%;
+
 	}
 
 }
