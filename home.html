@@ -201,7 +201,7 @@
         <div id="fondco" class="apparition"></div>
 
         
-        <div id="panel-connexion-gauche" class="col-md-3 apparition">
+        <div id="panel-connexion-gauche" class="col-md-3 col-xs-6 apparition">
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4>Se Connecter</h4>
@@ -231,7 +231,7 @@
                 </div>
             </div>
         </div>
-        <div id="panel-connexion-droite" class="col-md-3 apparition">
+        <div id="panel-connexion-droite" class="col-md-3 col-xs-6 apparition">
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4>Pas de Compte ?</h4>
@@ -310,7 +310,8 @@
     $('#fondco').click(function(){
         $('.apparition').removeClass('connexion-visible');
     });
-
+    if ($(window).width()>768){
+    
         $(window).scroll(function () {
             if ($(window).scrollTop() >= 50) {
                 $('.navbar').css('background','#f0f3f4');
@@ -319,9 +320,9 @@
                 $('.navbar').css('background','transparent');
                 $('.onglet').css('color','white');
             }
+        })
 
-
-        });
+    };
     </script>
 
 
