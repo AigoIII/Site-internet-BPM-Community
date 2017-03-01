@@ -9,29 +9,30 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>BPM Community</title>
+    <title>L'actu - BPM Community</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="css/modern-business.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
-    <link href="css/style.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="img/platine.png" />
 
 
-
-     <link rel="icon" type="image/png" href="img/platine.png" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 </head>
 
-<body id="body">
+<body>
 
     <!-- Navigation -->
-    <nav class="navbar navbar-mainpage navbar-inverse navbar-fixed-top" role="navigation">
-        <a class="navbar-brand" href="home.html"><figure><img id="logo" src="img/logo.1.png"></figure></a>
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+
+        <a class="navbar-brand" href="#" onclick="changementPage('home.html content')"><img id="logo" src="img/logo-detoure.png"></a>
         <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
@@ -47,8 +48,8 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li>
-                        <a href="l'actu.html"><div class="onglet">L'actu</div></a>
+                    <li class="active">
+                        <a href="#" onclick="changementPage('lactu.html content')"><div class="onglet">L'actu</div></a>
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown"><div class="onglet">Le son<b class="caret"></b></div></a>
@@ -63,32 +64,31 @@
                                 <a href="portfolio-3-col.html">Disco</a>
                             </li>
                             <li>
-                                <a href="portfolio-4-col.html">Minimale</a>
+                                <a href="portfolio-4-col.html">Micro</a>
                             </li>
                             <li>
-                                <a href="portfolio-item.html">Trance</a>
+                                <a href="portfolio-item.html">Psytrance</a>
                             </li>
                         </ul>
                     </li>
                     <li>
-                        <a href="qui-sommes-nous.html"><div class="onglet">Qui sommes-nous ?</div></a>
+                        <a href="#" onclick="changementPage('qui-sommes-nous.html content')"><div class="onglet">Qui sommes-nous ?</div></a>
                     </li>
                     <li>
-                        <a href="contact.html"><div class="onglet">Contact</div></a>
+                        <a href="#" onclick="changementPage('contact.html content')"><div class="onglet">Contact</div></a>
                     </li>
                     <li>
                         <a id="liencompte"><div class="panel panel-default text-center" id="moncompte">Mon Compte</div></a>
-                    </li>
+                    </li>                  
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
         </div>
-        <!-- /.navbar-collapse -->
-    </div>
-    <!-- /.container -->
-</nav>
-<content id="contenu">
-<!-- Header Carousel -->
+        <!-- /.container -->
+    </nav>
+
+    <content>
+    <!-- Header Carousel -->
 <header id="myCarousel" class="carousel slide">
     <!-- Indicators -->
     <ol class="carousel-indicators">
@@ -195,97 +195,132 @@
     </a>
 </div>
 
-
-
-
-        <div id="fondco" class="apparition"></div>
-
-        
-        <div id="panel-connexion-gauche" class="col-md-3 apparition">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4>Se Connecter</h4>
-                </div>
-                <div class="panel-body">
-                    <form name="seconnecter" id="contactForm" novalidate>
-                        <div class="control-group form-group">
-                            <div class="controls">
-                                <label>Adresse Mail :</label>
-                                <input type="email" placeholder="ex : nom.prenom@mail.com"class="form-control" id="email" required data-validation-required-message="Entrez votre adresse mail.">
-                                
-                            </div>
-                        </div>
-                        <div class="control-group form-group">
-                            <div class="controls">
-                                <label>Mot de Passe :</label>
-                                <input type="password" class="form-control" id="email" required data-validation-required-message="Entrez votre mot de passe.">
-                            </div>
-                        </div>
-                        <div class="checkbox">
-                            <label><input type="checkbox">Se souvenir de moi</label>
-                        </div>
-                        <div id="success"></div>
-                        <!-- For success/fail messages -->
-                        <button type="submit" class="btn btn-primary">Se Connecter</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-        <div id="panel-connexion-droite" class="col-md-3 apparition">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4>Pas de Compte ?</h4>
-                </div>
-                <div class="panel-body">
-                   <form name="s'inscrire" id="contactForm" novalidate>
-                    <div class="controls">
-                        <label>Pseudo :</label>
-                        <input type="text" placeholder="Entrez votre pseudo." class="form-control" id="pseudo" required data-validation-required-message="Entrer votre pseudo.">
-                        <p class="help-block"></p>
-                    </div> 
-                    <div class="controls">
-                        <label>Nom :</label>
-                        <input type="text" placeholder="Entrez votre nom." class="form-control" id="nom" required data-validation-required-message="Entrez votre nom.">
-                        <p class="help-block"></p>
-                    </div> 
-                    <div class="controls">
-                        <label>Prénom :</label>
-                        <input type="text" placeholder="Entrez votre prénom." class="form-control" id="name" required data-validation-required-message="Entrez votre prénom.">
-                        <p class="help-block"></p>
-                    </div>  
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Adresse Mail :</label>
-                            <input type="email" placeholder="ex : nom.prenom@mail.com" class="form-control" id="email" required data-validation-required-message="Entrez votre adresse mail.">
-                            
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Mot de Passe :</label>
-                            <input type="password" class="form-control" id="email" required data-validation-required-message="Entrez votre mot de passe.">
-                        </div>
-                    </div>
-                    <div class="control-group form-group">
-                        <div class="controls">
-                            <label>Confirmer le mot de Passe :</label>
-                            <input type="password" class="form-control" id="email" required data-validation-required-message="Entrez votre mot de passe.">
-                        </div>
-                    </div>
-                    <div id="success"></div>
-                    <!-- For success/fail messages -->
-                    <button type="submit" class="btn btn-primary">Créer un compte</button>
-                </form>   
-            </div>
-        </div>
         
 
     </div>
-    <!-- /.container -->
+    <!-- /.container --></content>
 
-    </content>
+    <footer id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <h4>Nous contacter</h4>
+                <p>HEI</p>
+                <p>
+                    13, rue de Toul.<br>59800 Lille, France.<br>
+                </p>
+                <p><i class="fa fa-phone"></i> 
+                    <abbr title="Phone">P</abbr>: (+33) 669389493</p>
+                    <p><i class="fa fa-envelope-o"></i> 
+                        <abbr title="Email">E</abbr>: <a href="mailto:name@example.com">augustin.andre@hei.yncrea.fr</a>
+                    </p>
+                    
+                </div>
+                <div class="col-md-4">
+
+                    <h4>A propos</h4>
+                    <a href="#" onclick="changementPage('qui-sommes-nous.html content')"><p>Qui sommes-nous ?</p></a>
+                </div>
+                <div class="col-md-4">
+                    <h4>Retrouvez nous sur :</h4>
+                    <a href="https://www.facebook.com/BePartoftheMovement?fref=ts" target="_blank"><i class="fa fa-facebook-square" style="font-size:36px"></i> </a>
+                    <a href="https://www.youtube.com/channel/UCAoCiHIim7cqEkCE2ioLCEA" target="_blank"><i class="fa fa-youtube" style="font-size:36px"></i></a>
+                    
+                </div>
+
+            </div>
+            <div id="copyright" class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; BPM Community 2016. Site créé par Alexandre Caulliez et Lancelot de la Taille - Tous droits réservés</p>
+                </div>
+            </div>
+        </div>
+        </footer>
+
+    <div id="fondco" class="apparition"></div>
 
 
+    <div id="panel-connexion-gauche" class="col-md-3 apparition">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Se Connecter</h4>
+            </div>
+            <div class="panel-body">
+                <form role="form" method="post" action="seconnecter" name="seconnecter" id="contactForm" novalidate>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label for="email">Adresse Mail :</label>
+                            <input type="email" placeholder="ex : nom.prenom@mail.com"class="form-control" id="email" name="email" required data-validation-required-message="Entrez votre adresse mail." />
+
+                        </div>
+                    </div>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label for="password">Mot de Passe :</label>
+                            <input type="password" class="form-control" id="email" name="password" required data-validation-required-message="Entrez votre mot de passe." />
+                        </div>
+                    </div>
+                    <div class="checkbox">
+                        <label><input type="checkbox">Se souvenir de moi</label>
+                    </div>
+                    <div id="success"></div>
+                    <!-- For success/fail messages -->
+                    <button type="submit" class="btn btn-primary">Se Connecter</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div id="panel-connexion-droite" class="col-md-3 apparition">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                <h4>Pas de Compte ?</h4>
+            </div>
+            <div class="panel-body">
+             <form method="post" action="sinscrire" name="sinscrire" id="contactForm" novalidate>
+                <div class="controls">
+                    <label for="pseudonyme">Pseudo :</label>
+                    <input type="text" placeholder="Entrez votre pseudo." class="form-control" id="pseudo" name="pseudonyme" required data-validation-required-message="Entrer votre pseudo.">
+                    <p class="help-block"></p>
+                </div> 
+                <div class="controls">
+                    <label for="nom">Nom :</label>
+                    <input type="text" placeholder="Entrez votre nom." class="form-control" id="nom" name="nom" required data-validation-required-message="Entrez votre nom.">
+                    <p class="help-block"></p>
+                </div> 
+                <div class="controls">
+                    <label for="prenom">Prénom :</label>
+                    <input type="text" placeholder="Entrez votre prénom." class="form-control" id="name" name="prenom" required data-validation-required-message="Entrez votre prénom.">
+                    <p class="help-block"></p>
+                </div>  
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label for="email">Adresse Mail :</label>
+                        <input type="email" placeholder="ex : nom.prenom@mail.com" class="form-control" id="email" name="email" required data-validation-required-message="Entrez votre adresse mail.">
+
+                    </div>
+                </div>
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label for="password">Mot de Passe :</label>
+                        <input type="password" class="form-control" id="email" name="password" required data-validation-required-message="Entrez votre mot de passe.">
+                    </div>
+                </div>
+                <div class="control-group form-group">
+                    <div class="controls">
+                        <label>Confirmer le mot de Passe :</label>
+                        <input type="password" class="form-control" id="email" required data-validation-required-message="Entrez votre mot de passe.">
+                    </div>
+                </div>
+                <div id="success"></div>
+                <!-- For success/fail messages -->
+                <button type="submit" class="btn btn-primary">Créer un compte</button>
+            </form>   
+        </div>
+    </div>
+
+
+</div>
+<!-- /.container -->
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
@@ -294,38 +329,31 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
-    <!-- Script to Activate the Carousel -->
-    <script>
-        $('.carousel').carousel({
 
-        interval: 3000 //changes the speed
-    })
-</script>
-
-<script type="text/javascript">
-    $('#moncompte').click(function(){
-        $('.apparition').toggleClass('connexion-visible');
-    });
-    // Toggle la pop-up {
-    $('#fondco').click(function(){
-        $('.apparition').removeClass('connexion-visible');
-    });
-
-        $(window).scroll(function () {
-            if ($(window).scrollTop() >= 50) {
-                $('.navbar').css('background','#f0f3f4');
-                $('.onglet').css('color','black');
-            } else {
-                $('.navbar').css('background','transparent');
-                $('.onglet').css('color','white');
-            }
-
-
+    <script type="text/javascript">
+        $('#moncompte').click(function(){
+            $('#panel-connexion-gauche, #panel-connexion-droite, #fondco').toggleClass('connexion-visible');
         });
+        $('#btn-lire').click(function(){
+            $('#actu, #fondco').toggleClass('connexion-visible');
+        });
+        // Toggle la pop-up {
+        $('#fondco').click(function(){
+            $('.apparition').removeClass('connexion-visible');
+        });
+
+        function changementPage(lien){
+            $("content").load(lien);
+            $.getScript(lien, function(){
+                alert("Running test.js");
+            });
+            // $("li.active").removeClass('active');
+        };
+
+        $(".onglet").click(function(){
+            $(this).parent().parent().addClass("active");
+        });
+
     </script>
-
-
-
 </body>
-
 </html>
