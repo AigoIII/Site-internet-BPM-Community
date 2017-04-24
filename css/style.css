@@ -217,7 +217,7 @@ h1#welcome-title small{
 
 }
 
-.apparition{
+.apparition, .apparitionsuppr, .apparitionadminoui, .apparitionadminnon, .apparitionsupprimg, .apparitionupload, .apparitionsupprson, .apparitioncompterendu, .apparitionajoutercomptrendu,.apparitionajoutermembre{
 	visibility: hidden;
 	z-index: 40;
 	position: fixed;
@@ -226,6 +226,13 @@ h1#welcome-title small{
 #actu{
 	left:20%;
 	top: 100px;
+	float: left;
+}
+
+.ajoutactu{
+	left:20%;
+	top: 100px;
+	float: left;
 }
 
 #panel-connexion-gauche{
@@ -250,6 +257,14 @@ h1#welcome-title small{
 	top: 0px;
 	bottom: 0px;
 	z-index: 30;
+}
+
+.confirmation{
+	
+	width: 40%;
+	left: 31%;
+	top: 100px;
+	float:left;
 }
 
 
@@ -279,6 +294,18 @@ h1#welcome-title small{
 	visibility: visible;
 	animation-name: animatetop;
 	animation-duration: 0.4s;
+}
+
+.ajoutactu.connexion-visible{
+	visibility: visible;
+	animation-name: animatetop;
+	animation-duration: 0.4s;
+}
+
+.confirmation.connexion-visible {
+	visibility: visible;
+	animation-name: animatetop;
+    animation-duration: 0.4s;
 }
 
 /* Upload panel style */
@@ -468,7 +495,7 @@ a:link{
 	}
 
 	#logo{
-		display: none;
+		height:40px;
 	}
 
 	#welcome-title{
@@ -557,9 +584,15 @@ a:link{
 	}
 
 	#panel-connexion-gauche, #panel-connexion-droite{
-		top: 10px;
-		width: 46%;
+		top: 40px;
+		left: 7px;
+		width: 300px;
+		position: absolute;
+		display: block;
+	}
 
+	#panel-connexion-droite{
+		top: 350px;
 	}
 
 }

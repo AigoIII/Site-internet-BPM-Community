@@ -125,10 +125,10 @@
                                     <td>lancelot.de-la-taille-tretinville@hei.fr</td>
                                     <td>1.2</td>
                                     <td>27/11/2016</td>
-                                    <td><button type="button" class="btn btn-default btn-sm">
+                                    <td><button type="button" class="btn btn-default btn-sm supprimer">
                                             <span class="glyphicon glyphicon-trash"></span> Supprimer 
                                         </button>
-                                        <button type="button" class="btn btn-default btn-sm">
+                                        <button type="button" class="btn btn-default btn-sm adminoui">
                                             <span class="glyphicon glyphicon-king"></span> Passer en administrateur 
                                         </button>
                                     </td>
@@ -141,10 +141,10 @@
                                     <td>alexandre.caulliez@hei.fr</td>
                                     <td>1.1</td>
                                     <td>12/11/2016</td>
-                                    <td><button type="button" class="btn btn-default btn-sm">
+                                    <td><button type="button" class="btn btn-default btn-sm supprimer">
                                             <span class="glyphicon glyphicon-trash"></span> Supprimer 
                                         </button>
-                                        <button type="button" class="btn btn-default btn-sm">
+                                        <button type="button" class="btn btn-default btn-sm adminnon">
                                             <span class="glyphicon glyphicon-ban-circle"></span> Retirer les droits d'administrateur 
                                         </button>
                                     </td>
@@ -157,10 +157,10 @@
                                     <td>jean-louis.delion@yahoo.fr</td>
                                     <td>0.3</td>
                                     <td>27/11/2016</td>
-                                    <td><button type="button" class="btn btn-default btn-sm">
+                                    <td><button type="button" class="btn btn-default btn-sm supprimer">
                                             <span class="glyphicon glyphicon-trash"></span> Supprimer 
                                         </button>
-                                        <button type="button" class="btn btn-default btn-sm">
+                                        <button type="button" class="btn btn-default btn-sm adminoui">
                                             <span class="glyphicon glyphicon-king"></span> Passer en administrateur 
                                         </button>
                                     </td>
@@ -173,10 +173,10 @@
                                     <td>martin.scorcese5@wanadoo.fr</td>
                                     <td>1.6</td>
                                     <td>25/11/2016</td>
-                                    <td><button type="button" class="btn btn-default btn-sm">
+                                    <td><button type="button" class="btn btn-default btn-sm supprimer">
                                             <span class="glyphicon glyphicon-trash"></span> Supprimer 
                                         </button>
-                                        <button type="button" class="btn btn-default btn-sm">
+                                        <button type="button" class="btn btn-default btn-sm adminoui">
                                             <span class="glyphicon glyphicon-king"></span> Passer en administrateur 
                                         </button>
                                     </td>
@@ -189,10 +189,10 @@
                                     <td>jeff.mills@gmail.com</td>
                                     <td>1.8</td>
                                     <td>04/11/2016</td>
-                                    <td><button type="button" class="btn btn-default btn-sm">
+                                    <td><button type="button" class="btn btn-default btn-sm supprimer">
                                             <span class="glyphicon glyphicon-trash"></span> Supprimer 
                                         </button>
-                                        <button type="button" class="btn btn-default btn-sm">
+                                        <button type="button" class="btn btn-default btn-sm adminnon">
                                              <span class="glyphicon glyphicon-ban-circle"></span> Retirer les droits d'administrateur 
                                         </button>
                                     </td>
@@ -205,10 +205,10 @@
                                     <td>acidricky@wanadoo.fr</td>
                                     <td>1.8</td>
                                     <td>24/11/2016</td>
-                                    <td><button type="button" class="btn btn-default btn-sm">
+                                    <td><button type="button" class="btn btn-default btn-sm supprimer">
                                             <span class="glyphicon glyphicon-trash"></span> Supprimer 
                                         </button>
-                                        <button type="button" class="btn btn-default btn-sm">
+                                        <button type="button" class="btn btn-default btn-sm adminoui">
                                             <span class="glyphicon glyphicon-king"></span> Passer en administrateur 
                                         </button>
                                     </td>
@@ -228,13 +228,12 @@
     </div>
 
 
-    <div id="fondco"></div>
+    <div id="fondco" class="apparition"></div>
 
-        <div id="connexion">
-            <div class="col-md-3">
+            <div class="confirmation apparitionsuppr col-md-3">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
-                        <h4>Etes-vous sûr de vouloir promouvoir bibidu62 administrateur ?</h4>
+                        <h4>Etes-vous sûr de vouloir supprimer bibidu62 ?</h4>
                     </div>
                     <div class="panel-body">
                     <button type="button" class="btn btn-default btn-sm">
@@ -246,8 +245,38 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
+
+            <div class="confirmation apparitionadminoui col-md-3">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <h4>Etes-vous sûr de vouloir promouvoir bibidu62 admin ?</h4>
+                    </div>
+                    <div class="panel-body">
+                    <button type="button" class="btn btn-default btn-sm">
+                        <span class="glyphicon glyphicon-ok"></span> Oui 
+                    </button>
+                    <button type="button" class="btn btn-default btn-sm">
+                        <span class="glyphicon glyphicon-remove"></span> Non 
+                    </button>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="confirmation apparitionadminnon col-md-3">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <h4>Etes-vous sûr de vouloir supprimer les droits administrateur de bibidu62 ?</h4>
+                    </div>
+                    <div class="panel-body">
+                    <button type="button" class="btn btn-default btn-sm">
+                        <span class="glyphicon glyphicon-ok"></span> Oui 
+                    </button>
+                    <button type="button" class="btn btn-default btn-sm">
+                        <span class="glyphicon glyphicon-remove"></span> Non 
+                    </button>
+                    </div>
+                </div>
+            </div>
 
      <!-- /.container-fluid -->
     <div class="container-fluid">
@@ -298,5 +327,26 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+
+        $('.supprimer').click(function(){
+            $('.apparitionsuppr,.apparition').toggleClass('connexion-visible');
+        });
+
+        $('.adminoui').click(function(){
+            $('.apparitionadminoui,.apparition').toggleClass('connexion-visible');
+        });
+
+         $('.adminnon').click(function(){
+            $('.apparitionadminnon,.apparition').toggleClass('connexion-visible');
+        });
+        // Toggle la pop-up {
+        $('#fondco').click(function(){
+            $('.apparition,.apparitionadminnon,.apparitionadminoui,.apparitionsuppr').removeClass('connexion-visible');
+        });
+        
+
+    </script>
 </body>
 </html>

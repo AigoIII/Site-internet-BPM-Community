@@ -131,7 +131,7 @@
                 <h4 class="fest-name">Name Festival</h4>
                 <p>Le rendez-vous techno incontournable de la métropole lilloise</p>
 
-                <a href="#" class="btn btn-default" id="btn-lire">Lire</a>
+                <a class="btn btn-default" id="btn-lire">Lire</a>
        
             </div>
             <img class="festival" src="img/name-logo.jpg">
@@ -142,7 +142,7 @@
                 <h4 class="fest-name">Laps Festival</h4>
                 <p>La valeur montante des festivals house/techno</p>
 
-                <a href="#" class="btn btn-default" id="btn-lire">Lire</a>
+                <a class="btn btn-default" id="btn-lire">Lire</a>
 
             </div>
             <img class="festival" src="img/laps-logo.png">
@@ -153,7 +153,7 @@
                 <h4 class="fest-name">Les Nuits de la Filature</h4>
                 <p></p>
 
-                <a href="#" class="btn btn-default" id="btn-lire">Lire</a>
+                <a class="btn btn-default" id="btn-lire">Lire</a>
 
             </div>
             <img class="festival" src="img/nuits-filature-logo.png">
@@ -164,7 +164,7 @@
                 <h4 class="fest-name">Weather Festival</h4>
                 <p>Les plus gros festival des musiques électroniques en France</p>
 
-                <a href="#" class="btn btn-default" id="btn-lire">Lire</a>
+                <a class="btn btn-default" id="btn-lire">Lire</a>
             </div>
             <img class="festival" src="img/weather-logo.jpg">
         </figure>
@@ -175,7 +175,7 @@
 
     <div id="fondco" class="apparition"></div>
     
-            <div class="col-md-7 panel panel-default text-center apparition" id="actu">
+            <div class="col-md-7 panel panel-default text-center apparitioncompterendu" id="actu">
                 <div class="panel-heading">
                     <img  class="illustration" src="img/name-cover.jpg">
                     <p>NAME Festival</p>
@@ -188,7 +188,7 @@
                     <p>Nouveau lieu donc, pas de grande nouveauté niveau programmation mais toujours de qualité. Deux scènes qui se font face et qui balance un déluge de bass.</p>
                 </div>
         </div>
-    </div>
+    
 
 </content>
 
@@ -201,17 +201,8 @@
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
 
-    <script type="text/javascript">
-    $('.btn').click(function(){
-        $('.apparition').toggleClass('connexion-visible');
-    });
-    // Toggle la pop-up {
-    $('#fondco').click(function(){
-        $('.apparition').removeClass('connexion-visible');
-    });
-
+    <script src="js/pop-up.js"></script>
     
-    </script>
 
 </body>
 

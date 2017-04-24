@@ -99,13 +99,13 @@
             <div class="col-md-3 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading fest">
-                        <div><span id="suppr" class="glyphicon glyphicon-remove"></span></div>
+                        <div><span id="suppr" class="glyphicon glyphicon-remove supprimer"></span></div>
                         <span>
                             <figure><img id="profil" src="http://www.thebankers.fr/admin/interviews/images/itw_46.jpg"></figure>
                         </span>
                         <div>
 
-                        <span class="glyphicon glyphicon-remove-sign"></span>
+                        <span class="glyphicon glyphicon-remove-sign supprimerimg"></span>
                         <span class="glyphicon glyphicon-ok-sign"></span>
 
                         </div>
@@ -157,22 +157,21 @@
             <div class="col-md-9 col-sm-6">
                 <div class="panel panel-default text-center">
                     <div id="titreupload" class="panel-heading fest">
-                        Mes sons uploadés
+                        Mes sons ajoutés
                     </div>
                     <div class="panel-body fest">
                         
-                        <p>Vous n'avez pas encore uploadé de musique.</p>
-                        <a href="moncompte.mod.upload.html" class="btn btn-default">Upload</a>
+                        <p>Vous n'avez pas encore ajouté de musique.</p>
+                        <a class="btn btn-default ajouterlien">Ajouter</a>
 
                     </div>
                 </div>
             </div>
     </div>
 
-    <div id="fondco"></div>
-
-        <div id="connexion">
-            <div class="col-md-3">
+            <div id="fondco" class="apparition"></div>
+        
+            <div class="col-md-3 apparitionsuppr confirmation">
                 <div class="panel panel-default text-center">
                     <div class="panel-heading">
                         <h4>Etes-vous sûr de vouloir supprimer votre compte ?</h4>
@@ -187,8 +186,71 @@
                     </div>
                 </div>
             </div>
+
+            <div class="col-md-3 apparitionsupprimg confirmation">
+                <div class="panel panel-default text-center">
+                    <div class="panel-heading">
+                        <h4>Etes-vous sûr de vouloir supprimer votre image de profil ?</h4>
+                    </div>
+                    <div class="panel-body">
+                    <button type="button" class="btn btn-default btn-sm">
+                        <span class="glyphicon glyphicon-ok"></span> Oui 
+                    </button>
+                    <button type="button" class="btn btn-default btn-sm">
+                        <span class="glyphicon glyphicon-remove"></span> Non 
+                    </button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-3 apparitionupload confirmation">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4>Ajouter un son :</h4>
+                    </div>
+                    <div class="panel-body">
+                <form name="seconnecter" id="contactForm" novalidate>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Titre :</label>
+                            <input type="title" class="form-control" id="titre" required data-validation-required-message="Entrez le titre.">
+                            
+                        </div>
+                    </div>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Artiste :</label>
+                            <input type="title" class="form-control" id="artiste" required data-validation-required-message="Entrez l'artiste.">
+                            
+                        </div>
+                    </div>
+                    <div class="control-group form-group">
+                        <div class="controls">
+                            <label>Adresse URL :</label>
+                            <input type="title"placeholder="www.youtube.com/..." class="form-control" id="artiste" required data-validation-required-message="Entrez l'artiste.">
+                            
+                        </div>
+                    </div>
+
+                     <div class="form-group">
+                        <label for="sel1">Ajouter à la playlist :</label>
+                        <select class="form-control" id="sel1">
+                        <option>House</option>
+                        <option>Techno</option>
+                        <option>Disco</option>
+                        <option>Minimale</option>
+                        <option>Trance</option>
+                      </select>
+                    </div>
+                    <div id="success"></div>
+                    <!-- For success/fail messages -->
+                    <button type="submit" class="btn btn-primary">Ajouter</button>
+                </form>
+                </div>
+                </div>
+            </div>       
         </div>
-    </div>
+        
 
      <!-- /.container-fluid -->
     <div class="container-fluid">
@@ -239,5 +301,10 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/pop-up.js"></script>
+
+    <script src="contact_me.js"></script>
+    
 </body>
 </html>

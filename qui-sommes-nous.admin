@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Qui sommes-nous ? - BPM Community</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    <link rel="icon" type="image/png" href="img/platine.png" />
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <a class="navbar-brand" href="home.html"><figure><img id="logo" src="img/logo.png"></figure></a>
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+           
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="l'actu.html"><div class="onglet">L'actu</div></a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><div class="onglet">Le son<b class="caret"></b></div></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="leson.house.html">House</a>
+                            </li>
+                            <li>
+                                <a href="leson.techno.html">Techno</a>
+                            </li>
+                            <li>
+                                <a href="portfolio-3-col.html">Disco</a>
+                            </li>
+                            <li>
+                                <a href="portfolio-4-col.html">Minimale</a>
+                            </li>
+                            <li>
+                                <a href="portfolio-item.html">Trance</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="active">
+                        <a href="qui-sommes-nous.html"><div class="onglet">Qui sommes-nous ?</div></a>
+                    </li>
+                    <li>
+                        <a href="contact.html"><div class="onglet">Contact</div></a>
+                    </li>
+                    <li>
+                        <a href="moncompte.html" id="liencompte"><div class="panel panel-default text-center" id="moncompte">Mon Compte</div></a>
+                    </li>
+
+                   
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <content>
+    <!-- Page Content -->
+    <div class="container">
+
+        <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header" id="welcome">Qui sommes nous ?
+                    <small></small>
+                </h1>
+                <ol class="breadcrumb">
+                    <li><a href="home.html">Accueil</a>
+                    </li>
+                    <li class="active">Qui sommes-nous ?</li>
+                </ol>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Intro Content -->
+        <div class="row">
+            <div class="col-md-6">
+                <img class="img-responsive" src="img/team_bpm.jpg" alt="">
+            </div>
+            <div class="col-md-6">
+                <h2>A propos de BPM</h2>
+                <p>L’association BPM est une association créée au sein d’HEI. Elle vise à promouvoir les musiques électroniques par l’intermédiaire d’évènements et de communautés sur les réseaux sociaux. </p>
+                <p></p>
+                <p></p>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <!-- Team Members -->
+        
+            <div class="col-lg-12">
+                <h2 class="page-header">Notre équipe</h2>
+            </div>
+            <!-- row -->
+            <div class="row">
+            <div class="col-md-6 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="img/nouche_bpm.jpg" alt="">
+                    <div class="caption">
+                        <h3>Augustin André<br>
+                            <small>Président</small>
+                        </h3>
+
+                        <p>Augustin André alias "Nouch", capitaine de ce bel équipage répondant au nom de BPM , est l'un des plus brillant tapeur du pied de notre siècle et sûrement de tout les temps. De la disco à la techno industrielle il saura vous transporter dans son monde remplit d'amour et de bien être qu'est le monde de la musique électronique.</p>
+                                             
+                    </div>
+                </div>
+            </div>
+           
+            <div class="col-md-6 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="img/max_bpm.jpg" alt="">
+                    <div class="caption">
+                        <h3>Maxime Sabbagh<br>
+                            <small>Vice Président</small>
+                        </h3>
+                        <p>Max ce grand fou de musique techno et partisan du mouvement underground est toujours là pour faire kiffer ses petits potes. Il s'inspire d'artistes tels que Jeff Mills ou Recondite mais est toujours ouvert à de nouveaux sons. N'hésitez pas à lui en faire écouter pour le faire rêver !.</p>                      
+                    </div>
+                </div>
+            </div>
+            </div>
+            <!-- Closing the row -->
+            <div class="row">
+             <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="img/adri_bpm.jpg" alt="">
+                    <div class="caption">
+                        <h3>Adri Souv<br>
+                            <small>Staff</small>
+                        </h3>
+
+                        <p>Adrienne nouvelle lilloise nous vient tout juste de Bretagne avec dans ses bagages de la bonne techno ou encore de la house, comme Octave One et Dominik Eulberg.</p>
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="img/eloy_bpm.jpg" alt="">
+                    <div class="caption">
+                        <h3>Eloy Na<br>
+                            <small>Staff</small>
+                        </h3>
+                        <p>Eloy est le genre de gars à ranger dans la catégorie "teufeur de l'extrême". Passionné de techno et grand adepte de Tale of Us et Fatima Yamaha, vous ne le verrez jamais s'arrêter du pied !</p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="img/henri_bpm.jpg" alt="">
+                    <div class="caption">
+                        <h3>Henri Grucy<br>
+                            <small>Staff</small>
+                        </h3>
+                        <p>Henry sait groover, et vous faire groover, sur des sons disco/house ensorcelants. Ce petit génie du beats à la chevelure comparable à son talent, saura vous faire voyager par ses sets rythmés et son attitude dynamique derrière les platines.</p>
+
+                    </div>
+                </div>
+            </div>
+            </div>
+            <!-- Closing the row -->
+            <div class="row">
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="http://placehold.it/750x450" alt="">
+                    <div class="caption">
+                        <h3>Manu Pierrat<br>
+                            <small>Staff</small>
+                        </h3>
+
+                        <p>Skateur le jour, grand amateur de festival le soir. De la techno à la house, Manu saura vous motivé avec son oreille fine et sa bonne humeur.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        
+        <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="img/alex_bpm.jpg" alt="">
+                    <div class="caption">
+                        <h3>Alexandre Caulliez<br>
+                            <small>Staff</small>
+                        </h3>
+                        <p>Membre actif de la vie nocturne lilloise, Alex saura vous emmener dans les meilleurs teufs pour bouncer toute la nuit. Plutôt House de base, il trouve aussi son bonheur dans la techno mélodique.</p>                       
+                       
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="img/lena_bpm.jpg" alt="">
+                    <div class="caption">
+                        <h3>Léna Savoldelli<br>
+                            <small>Staff</small>
+                        </h3>
+                        <p>Léna, un talent de DJ à surveiller de très près. Elle saura vous emmener dans son univers lors de ses nombreux sets ! Grande admiratrice des DJs Roumains, elle s'inspire également d'artistes comme Ricardo Villalobos et Fransceco Del Garda.</p>                     
+                    </div>
+                </div>
+            </div>
+            </div>
+            <!-- Closing the row -->
+            <div class="row">
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="img/victor_bpm.jpg" alt="">
+                    <div class="caption">
+                        <h3>Victor Moin<br>
+                            <small>Staff</small>
+                        </h3>
+                        <p>Raver agguéri, Victor aime avant tout les sons technos planants comme ceux de Recondite ou de Mind Against, mais n'est pas contre une bonne soirée house aux kicks bien dansants.</p>                      
+                    </div>
+                </div>
+            </div>
+        
+        <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="img/simbab_bpm.jpg" alt="">
+                    <div class="caption">
+                        <h3>Arthur Simbab<br>
+                            <small>Staff</small>
+                        </h3>
+
+                        <p>Malgré sa tête enfantine, Simbab manie avec brio ses platines. Ce DJ passionné ne manque jamais une occasion de groover, vous le verrez à travers sa danse endiablée.</p>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    <img class="img-responsive" src="img/jules_bpm.jpg" alt="">
+                    <div class="caption">
+                        <h3>Jules Heylesonne<br>
+                            <small>Staff</small>
+                        </h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste saepe et quisquam nesciunt maxime.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 text-center">
+                <div class="thumbnail">
+                    
+                    <div class="caption">
+                        <h3>Ajouter un membre<br>
+                            <small>Staff</small>
+                        </h3>
+                        <button type="button" id="ajoutercompterendu" class="btn btn-default btn-sm">
+                            <span class="glyphicon glyphicon-plus-sign"></span> Ajouter
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.row -->
+
+        <hr>
+    </div>
+    <!-- /.container -->
+
+    </content>
+
+     <!-- /.container-fluid -->
+    <div class="container-fluid">
+    <!-- Footer -->
+        <footer id="footer">
+            
+            <div class="row">
+                <div class="col-md-2">
+                        <h4>Nous contacter</h4>
+                        <p>HEI</p>
+                        <p>
+                        13, rue de Toul.<br>59800 Lille, France.<br>
+                    </p>
+                    <p><i class="fa fa-phone"></i> 
+                        <abbr title="Phone">P</abbr>: (+33) 669389493</p>
+                    <p><i class="fa fa-envelope-o"></i> 
+                        <abbr title="Email">E</abbr>: <a href="mailto:name@example.com">augustin.andre@hei.yncrea.fr</a>
+                    </p>
+                    
+                </div>
+                <div class="col-md-2">
+                   
+                    <h4>A propos</h4>
+                    <a href="qui-sommes-nous.html"><p>Qui sommes-nous ?</p></a>
+                </div>
+                 <div class="col-md-2">
+                    <h4>Retrouvez nous sur :</h4>
+                    <p><a href="https://www.facebook.com/BePartoftheMovement?fref=ts" target="_blank"><i class="fa fa-facebook-square" style="font-size:36px"></i>  Facebook </a></p>
+                    <p><a href="https://www.youtube.com/channel/UCAoCiHIim7cqEkCE2ioLCEA" target="_blank"><i class="fa fa-youtube" style="font-size:36px"></i>  Youtube </a></p>
+                    
+                </div>
+                <div id="div-logo" class="col-md-2">
+                    <img id="logo-footer" src="img/logo.png">
+                </div>
+            </div>
+            <div id="copyright" class="row">
+                <div class="col-lg-12">
+                    <p>Copyright &copy; BPM Community 2016. Site créé par Alexandre Caulliez et Lancelot de la Taille - Tous droits réservés</p>
+                </div>
+            </div>
+
+        </footer>
+    </div>
+
+    
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

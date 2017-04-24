@@ -3,8 +3,8 @@
 
     function onYouTubeIframeAPIReady() {
         player = new YT.Player('player', {
-            width: '0',
-            height: '0',
+            width: '150',
+            height: '150',
             videoId: 'lSZqC-Nezlw',
             playerVars: {
                 playlist: 'pfh1BGUCDRE,fi8LLmw6GRU'

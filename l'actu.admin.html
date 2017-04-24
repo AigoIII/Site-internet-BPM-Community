@@ -120,7 +120,7 @@
                     <div class="panel-body fest">
                         <h4>NAME Festival</h4>
                         <p>Le RDV lillois pour les amateurs de Techno/House.</p>
-                        <a href="#" class="btn btn-default">Lire</a>
+                        <a class="btn btn-default">Lire</a>
                     </div>
                 </div>
             </div>
@@ -134,7 +134,7 @@
                     <div class="panel-body fest">
                         <h4>Nuits Electriques</h4>
                         <p>Le Festval lillois qui monte !</p>
-                        <a href="#" class="btn btn-default">Lire</a>
+                        <a class="btn btn-default">Lire</a>
                     </div>
                 </div>
             </div>
@@ -148,7 +148,7 @@
                     <div class="panel-body fest">
                         <h4>Laps Festival</h4>
                         <p>La Classique met le feu à Villeneuve d'Ascq !</p>
-                        <a href="#" class="btn btn-default">Lire</a>
+                        <a class="btn btn-default">Lire</a>
                     </div>
                 </div>
             </div>
@@ -162,7 +162,7 @@
                     <div class="panel-body fest">
                         <h4>Weather Festival</h4>
                         <p>La référence des festivals techno/house.</p>
-                        <a href="#" class="btn btn-default">Lire</a>
+                        <a class="btn btn-default">Lire</a>
                     </div>
                 </div>
             </div>
@@ -171,10 +171,8 @@
                     <div class="panel-heading fest">
                         <h4>Ajouter un compte rendu</h4>
                     </div>
-                    <div class="panel-body fest">
-                        
-                        
-                        <button type="button" class="btn btn-default btn-sm">
+                    <div class="panel-body fest">                    
+                        <button type="button" id="ajoutercompterendu" class="btn btn-default btn-sm">
                             <span class="glyphicon glyphicon-plus-sign"></span> Ajouter
                         </button>
                     </div>
@@ -214,58 +212,58 @@
 
         </div>
 
-        <div id="fondco"></div>
-
-        <div id="connexion">
-            <div class="col-md-7">
-                <div class="panel panel-default">
-                    <div class="panel-heading  text-center">
-                        <h4>Ajouter un comptre-rendu :</h4>
-                    </div>
-                    <div class="panel-body">
-
-                        <form name="sentMessage" id="contactForm" novalidate>
-                            <div class="control-group form-group">
-                                <div class="controls">
-                                    <label>Titre :</label>
-                                    <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
-                                    <p class="help-block"></p>
-                                </div>
-                            </div>
-
-                            <div class="control- group form-group">
-                                    <div class="controls">
-                                    <label for="exampleInputFile">Ajouter une illustration :</label>
-                                    <input type="file" class="form-control-file" id="file" aria-describedby="fileHelp">
-                                    <small id="fileHelp" class="form-text text-muted">Ajouter un image qui illustre l'événment.</small>
-                                </div>
-                            </div>
-
-                            <div class="control-group form-group">
-                                <div class="controls">
-                                    <label>Sous-titre :</label>
-                                    <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
-                                    <p class="help-block"></p>
-                                </div>
-                            </div>
-                            
-                            <div class="control-group form-group">
-                                <div class="controls">
-                                    <label>Texte :</label>
-                                    <textarea rows="8" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
-                                </div>
-                            </div>
-                            <div id="success"></div>
-                            <!-- For success/fail messages -->
-                        <button type="submit" class="btn btn-primary">Ajouter</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
     </div>
-
     <!-- /.container -->
+    <div id="fondco" class="apparition"></div>
+
+                <div class="col-md-7 ajoutactu apparitionajoutercomptrendu">
+                    <div class="panel panel-default">
+                        <div class="panel-heading  text-center">
+                            <h4>Ajouter un comptre-rendu :</h4>
+                        </div>
+                        <div class="panel-body">
+
+                            <form name="sentMessage" id="contactForm" novalidate>
+                                <div class="control-group form-group">
+                                    <div class="controls">
+                                        <label>Titre :</label>
+                                        <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                                        <p class="help-block"></p>
+                                    </div>
+                                </div>
+
+                                <div class="control- group form-group">
+                                        <div class="controls">
+                                        <label for="exampleInputFile">Ajouter une illustration :</label>
+                                        <input type="file" class="form-control-file" id="file" aria-describedby="fileHelp">
+                                        <small id="fileHelp" class="form-text text-muted">Ajouter un image qui illustre l'événement.</small>
+                                    </div>
+                                </div>
+
+                                <div class="control-group form-group">
+                                    <div class="controls">
+                                        <label>Sous-titre :</label>
+                                        <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
+                                        <p class="help-block"></p>
+                                    </div>
+                                </div>
+                                
+                                <div class="control-group form-group">
+                                    <div class="controls">
+                                        <label>Texte :</label>
+                                        <textarea rows="8" cols="100" class="form-control" id="message" required data-validation-required-message="Please enter your message" maxlength="999" style="resize:none"></textarea>
+                                    </div>
+                                </div>
+                                <div id="success"></div>
+                                <!-- For success/fail messages -->
+                            <button type="submit" class="btn btn-primary">Ajouter</button>
+                            </form>
+                        </div>
+                    </div>
+               
+            </div>
+
      <!-- /.container-fluid -->
     <div class="container-fluid">
     <!-- Footer -->
@@ -315,6 +313,8 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/pop-up.js"></script>
 
 </body>
 
